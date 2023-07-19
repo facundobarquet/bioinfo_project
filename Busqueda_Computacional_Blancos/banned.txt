@@ -1,0 +1,2 @@
+1l6j_A_cavity_1,14,4.099,0.2928,7,1,2,4,0,0,Matrix metalloproteinase-9,HYDROLASE,MMP9_HUMAN,May play an essential role in local proteolysis of the extracellular matrix and in leukocyte migration. Could play a role in bone osteoclastic resorption. Cleaves KiSS1 at a Gly-,-Leu bond.,Defects in MMP9 may be a cause of susceptibility to lumbar disk herniation (LDH) [MIM:603932]. LDH is the predominant cause of low-back pain and unilateral leg pain.,"NONE
+"

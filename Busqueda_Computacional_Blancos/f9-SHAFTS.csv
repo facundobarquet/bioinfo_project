@@ -1,0 +1,281 @@
+rank,name,uniprot,species,score,simiscore
+1,DNA damage-inducible transcript 3 protein,Q91YW9,Mus musculus,0.007,1.585
+2,MPI protein,n/a,Homo sapiens,0.02,1.55
+3,VEGFR-1 (Flt-1),F5H5L6,Homo sapiens,0.033,1.542
+4,EGF-R Tyrosine Kinase,P55245,Homo sapiens,1.0,1.533
+5,Mitogen-activated protein kinase 10 (Stress-activated protein kinase JNK3) (c-Jun N-terminal kinase 3) (MAP kinase p49 3F12).,A6NG28,Homo sapiens,0.014,1.53
+6,nuclear receptor subfamily 1 group I member 2 isoform 1,O75469,Homo sapiens,0.013,1.514
+7,"karyopherin alpha 2 (RAG cohort 1, importin alpha 1), isoform CRA_b",Q9BRU5,Homo sapiens,0.013,1.509
+8,DNA topoisomerase II alpha/beta,B2RTS1,Homo sapiens,0.014,1.503
+9,Dihydrofolate Reductase (DHFR),P00374,Homo sapiens,0.014,1.495
+10,PDGFR-beta,P09619,Homo sapiens,0.101,1.493
+11,Fatty Acid Amide Hydrolase,Q5BKA3,Rattus norvegicus,0.077,1.493
+12,Sodium channel protein type X alpha subunit,Q62968,Rattus norvegicus,0.046,1.492
+13,insulin-degrading enzyme isoform 1 precursor,Q5T5N2,Homo sapiens,0.007,1.489
+14,EGF-R Tyrosine Kinase,P00533,Homo sapiens,0.199,1.487
+15,Progesterone receptor,A7X8B0,Homo sapiens,0.014,1.481
+16,5-hydroxytryptamine receptor 3A,n/a,Homo sapiens,0.013,1.477
+17,Protein kinase B (Akt 1),B2RAM5,Homo sapiens,0.02,1.475
+18,Cannabinoid receptor 1,P21554,Homo sapiens,0.052,1.471
+19,Hsf1 protein,n/a,Mus musculus,0.084,1.471
+20,Cannabinoid Receptor 2,P34972,Homo sapiens,0.073,1.471
+21,Coagulation factor XII precursor (Hageman factor) (HAF),P00748,Homo sapiens,0.02,1.468
+22,"Vanilloid Receptor 1 (TRPV1, VR1)",n/a,Homo sapiens,0.117,1.466
+23,Cathepsin G,Q6IBJ6,Homo sapiens,0.026,1.466
+24,"Vanilloid Receptor 1 (TRPV1, VR1)",Q9JLM0,Rattus norvegicus,0.007,1.464
+25,LANA,n/a,Human herpesvirus 8,0.032,1.464
+26,v-rel reticuloendotheliosis viral oncogene homolog A isoform 1,Q6GTV1,Homo sapiens,0.123,1.464
+27,voltage-dependent T-type calcium channel subunit alpha-1H isoform a,F8WFD1,Homo sapiens,0.007,1.462
+28,caspase-3 preproprotein,Q96KP2,Homo sapiens,0.07,1.459
+29,CELL DIVISION PROTEIN KINASE 2,P24941,Homo sapiens,0.065,1.458
+30,SERINE/THREONINE-PROTEIN KINASE 6,O14965,Homo sapiens,0.026,1.458
+31,Epoxide hydratase,B2Z3B1,Homo sapiens,0.065,1.458
+32,Aurora Kinase B (Aurora-B),Q96GD4,Homo sapiens,0.027,1.458
+33,Monoamine oxidase B,B2R6R3,Homo sapiens,0.007,1.457
+34,X-linked inhibitor of apoptosis,P98170,Homo sapiens,0.007,1.456
+35,Bfl-1,Q6FGZ4,Homo sapiens,0.013,1.456
+36,glycogen synthase kinase 3 beta isoform 1,n/a,Homo sapiens,0.039,1.455
+37,"eukaryotic translation initiation factor 4 gamma, 1 isoform 4",O43177,Homo sapiens,0.013,1.455
+38,B-cell leukemia/lymphoma 2 related protein A1a,Q07440,Mus musculus (Mouse),0.013,1.454
+39,"Translation factor GUF1, mitochondrial",D6VYT5,Saccharomyces cerevisiae,0.007,1.453
+40,Acetylcholinesterase (AChE),Q86TM9,Homo sapiens,0.007,1.452
+41,Focal adhesion kinase 1 (FADK 1) (pp125FAK) (Protein-tyrosine kinase 2).,Q05397,Homo sapiens,0.013,1.452
+42,Malonyl-CoA decarboxylase,Q9UNU5,Homo sapiens,0.007,1.446
+43,large T antigen,n/a,Simian virus 40,0.007,1.445
+44,"opioid receptor, kappa 1",P41145,Homo sapiens,0.007,1.445
+45,"cell division cycle 42 (GTP binding protein, 25kDa)",Q8CFN2,Homo sapiens,0.007,1.445
+46,Adenosine A1 receptor,A5PJR1,Bos taurus,0.013,1.443
+47,Rho-kinase (ROCK I),Q2KHM4,Homo sapiens,0.007,1.442
+48,RecName: Full=Zinc finger protein mex-5,Q9XUB2,Caenorhabditis elegans,0.026,1.438
+49,Neurokinin 3 receptor,P29371,Homo sapiens,0.007,1.438
+50,G-protein coupled receptor 55,Q9Y2T6,Homo sapiens,0.027,1.438
+51,N-arachidonyl glycine receptor,Q14330,Homo sapiens,0.016,1.438
+52,streptokinase A precursor,P10520,Streptococcus pyogenes M1 GAS,0.039,1.438
+53,Human rhinovirus A protease,n/a,Human rhinovirus A,0.013,1.434
+54,Mitogen-Activated Protein Kinase 10 (JNK3),A6NG28,Homo sapiens,0.013,1.428
+55,CDK2,O75100,Homo sapiens,0.02,1.427
+56,Adenosine Receptor A2A,P29274,Homo sapiens,0.051,1.427
+57,Elongation of very long chain fatty acids protein 6,Q8NCD1,Homo sapiens,0.013,1.426
+58,Estradiol 17-beta-dehydrogenase 3,P37058,Homo sapiens,0.026,1.425
+59,glutathione S-transferase,n/a,Homo sapiens,0.013,1.422
+60,Adenosine A3 Receptor,A2A3P4,Homo sapiens,0.058,1.421
+61,NADPH oxidase 1,Q2PP02,Homo sapiens,0.013,1.421
+62,Steroidogenic factor 1,Q13285,Homo sapiens,0.003,1.42
+63,"complement component 1, s subcomponent",Q9UCV5,Homo sapiens,0.013,1.42
+64,Nuclear receptor 0B1,P51843,Homo sapiens,0.01,1.42
+65,"Fructose-1,6-bisphosphatase",P09467,Homo sapiens,0.033,1.419
+66,Nuclear receptor ROR-alpha (Retinoid-related orphan receptor-alpha) (Nuclear receptor RZR-alpha).,P35398,Homo sapiens,0.063,1.418
+67,"endothelial differentiation, sphingolipid G-protein-coupled receptor, 3",Q7Z5I2,Homo sapiens,0.019,1.417
+68,STAT3,n/a,Homo sapiens,0.026,1.416
+69,Leukotriene B4 receptor 1/2,Q13305,Homo sapiens,0.045,1.415
+70,"protein tyrosine phosphatase, non-receptor type 7 isoform 2",P35236,Homo sapiens,0.007,1.415
+71,Cannabinoid Receptor 1,P20272,Rattus norvegicus,0.083,1.415
+72,DNA-dependent protein kinase,Q14175,Homo sapiens,0.013,1.414
+73,Serine/threonine-protein kinase WEE1,P30291,Homo sapiens,0.051,1.414
+74,VEGFR-2 (KDR),O60723,Homo sapiens,0.026,1.414
+75,"endothelial differentiation, sphingolipid G-protein-coupled receptor, 1",Q9NYN8,Homo sapiens,0.032,1.414
+76,Checkpoint Kinase (Chk1),O14757,Homo sapiens,0.02,1.413
+77,GABA receptor alpha-2/beta-3/gamma-2 subunit,n/a,Homo sapiens,0.007,1.413
+78,Aldose reductase,P07943,Rattus norvegicus,0.019,1.413
+79,Bfl-1,Q07440,Mus musculus (Mouse),0.007,1.412
+80,CASPASE-3 SUBUNIT P17,P42574,"HOMO SAPIENS, HOMO SAPIENS",0.0,1.412
+81,Sentrin-specific protease 8,Q96LD8,Homo sapiens,0.007,1.412
+82,YopH,n/a,Yersinia enterocolitica,0.045,1.411
+83,Src,Q76P87,Homo sapiens,0.025,1.41
+84,Nuclear factor NF-kappa-B p65 subunit,Q6GTV1,Homo sapiens,0.051,1.408
+85,neutrophil cytosolic factor 1,A8K7S9,Homo sapiens,0.013,1.407
+86,Mcl-1,n/a,Homo sapiens,0.013,1.407
+87,Histone Deacetylase 1 (HDAC1),Q92534,Homo sapiens,0.019,1.405
+88,Leukocyte elastase,Q6B0D9,Homo sapiens,0.026,1.404
+89,Tyrosine-protein kinase CSK/SRC,P41241,Homo sapiens,0.032,1.404
+90,CYCLIN-DEPENDENT KINASE 5,Q15078,Homo sapiens,0.071,1.404
+91,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,Q63470,Rattus norvegicus,0.091,1.404
+92,Aromatase (CYP19),Q16731,Homo sapiens,0.013,1.403
+93,A2A-T4L-deltaC,P29274,Homo sapiens,0.019,1.403
+94,17-beta-Hydroxysteroid Dehydrogenase 1 (17-beta-HSD1),P14061,Homo sapiens,0.007,1.403
+95,Tyrosine-protein kinase LCK,Q5TDH8,Homo sapiens,0.044,1.403
+96,leucine aminopeptidase,n/a,Plasmodium falciparum 3D7,0.007,1.402
+97,"Glycogen Synthase Kinase-3, beta",D3DN89,Homo sapiens,0.057,1.402
+98,HER-2 Substrate,B2RZG3,Homo sapiens,0.013,1.402
+99,Tyrosine-protein kinase receptor RET,Q15250,Homo sapiens,0.007,1.402
+100,VEGFR-1 (Flt-1),n/a,Homo sapiens,0.171,1.401
+101,Dual specificity protein kinase CLK1,P49759,Homo sapiens,0.073,1.4
+102,"ATP-binding cassette, sub-family C, member 1 isoform 1",n/a,Homo sapiens,0.019,1.4
+103,Cytochrome P450 2C19,P33261,Homo sapiens,0.039,1.4
+104,TPA: Essential protein of the mitochondrial intermembrane space,D3DKU9,Saccharomyces cerevisiae S288c,0.026,1.4
+105,11-beta-Hydroxysteroid Dehydrogenase 1 (11-beta-HSD1),P28845,Homo sapiens,0.032,1.399
+106,carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1 isoform 1,Q9GZU7,Homo sapiens,0.007,1.398
+107,CDK4,O00576,Homo sapiens,0.032,1.397
+108,Fatty Acid Amide Hydrolase,Q5TDF8,Homo sapiens,0.007,1.396
+109,Choline acetylase,n/a,Homo sapiens,0.006,1.395
+110,BCL2-like 11 isoform 1,Q6T851,Homo sapiens,0.013,1.394
+111,Cytochrome P450 2C9,P11712,Homo sapiens,0.019,1.394
+112,BZLF2,Q1HVG2,Human herpesvirus 4 type 2,0.006,1.394
+113,Cytochrome P450 2D6,P10635,Homo sapiens,0.025,1.394
+114,apelin receptor,P35414,Homo sapiens,0.064,1.393
+115,toll-like receptor 9,Q9HD69,Homo sapiens,0.013,1.393
+116,Sodium channel protein type 10 subunit alpha,Q62243,Mus musculus,0.013,1.393
+117,Alpha-1 Adrenergic Receptor/ adrenergic receptor/ adrenergic receptor,P15823,Rattus norvegicus,0.006,1.392
+118,Metabotropic glutamate receptor 1,P23385,Rattus norvegicus,0.025,1.39
+119,Glutamate [NMDA] receptor subunit epsilon 2/zeta 1,Q12919,Homo sapiens,0.006,1.389
+120,Casein kinase I isoform alpha,P48729,Homo sapiens,0.006,1.388
+121,Dopamine D4 receptor,Q8NGM5,Homo sapiens,0.006,1.388
+122,Monoamine Oxidase Type A (MAO-A),Q63817,Rattus norvegicus (rat),0.006,1.388
+123,MAP Kinase p38 alpha,Q16539,Homo sapiens,0.038,1.388
+124,MSRA protein,P54149,Bos taurus,0.006,1.386
+125,Phosphodiesterase Type 5 (PDE5),O76074,Homo sapiens,0.006,1.385
+126,Tyrosine-protein kinase SRC,P12931,Homo sapiens,0.07,1.385
+127,MEK-1/Tumor Progression Loci-2 Kinase (COT),A8K2Q5,Homo sapiens,0.013,1.385
+128,Complement C1r,P00736,Homo sapiens,0.025,1.385
+129,EGF-R Tyrosine Kinase,n/a,Homo sapiens,0.013,1.385
+130,Human herpes virus 5 capsid protein P40,P16753,Human cytomegalovirus (strain AD169) (HHV-5) (Human herpesvirus 5),0.006,1.384
+131,Tumor Progression Loci-2 Kinase (COT),A8K2Q5,Homo sapiens,0.006,1.384
+132,Tyrosine Kinase CSF1-R,D3DQG2,Homo sapiens,0.064,1.383
+133,Janus kinase 2 (a protein tyrosine kinase),O60674,Homo sapiens,0.006,1.383
+134,"Glycogen Synthase Kinase-3, alpha",P49840,Homo sapiens,0.07,1.383
+135,Serotonin Receptor 1A,Q6LAE7,Homo sapiens,0.025,1.382
+136,Anthrax lethal factor,Q933F6,Bacillus anthracis,0.006,1.381
+137,Protein Tyrosine Phosphatase VHR,Q5RD73,Homo sapiens,0.006,1.381
+138,Factor XIa (fXIa),n/a,Homo sapiens,0.006,1.381
+139,Dopamine D1 receptor/D3 receptor/D4 receptor/D5 receptor/Receptor D2,P18901,Rattus norvegicus,0.006,1.38
+140,corticotropin releasing factor-binding protein,n/a,Homo sapiens,0.019,1.38
+141,Phosphodiesterase 4C/4D/Type 4,B3KTC4,Homo sapiens,0.006,1.379
+142,Metabotropic glutamate receptor 5,P31424,Rattus norvegicus,0.038,1.378
+143,Cyclooxygenase-1,P23219,Homo sapiens,0.032,1.377
+144,"protein phosphatase 1, catalytic subunit, alpha isoform 3",n/a,Homo sapiens,0.006,1.377
+145,Gli1,P47806,Mus musculus,0.025,1.376
+146,Ls-AChBP,P58154,NA,0.006,1.376
+147,Insulin-like growth factor 1 receptor precursor (EC 2.7.10.1) (Insulin-like growth factor I receptor) (IGF-I receptor) (CD221 antigen),P08069,Homo sapiens,0.004,1.375
+148,NAD-dependent protein deacetylase sirtuin-1,Q96EB6,Homo sapiens,0.003,1.375
+149,ATP-binding cassette sub-family G member 2,Q9UNQ0,Homo sapiens,0.017,1.375
+150,Adenosine A1 receptor,P25099,Rattus norvegicus,0.013,1.375
+151,NAD-dependent protein deacetylase sirtuin-2,Q8IXJ6,Homo sapiens,0.003,1.375
+152,epidermal growth factor receptor,P00533,Homo sapiens,0.033,1.375
+153,Cation-independent mannose-6-phosphate receptor,P11717,Homo sapiens,0.003,1.375
+154,Estrogen receptor 1,Q6MZQ9,Homo sapiens,0.025,1.375
+155,Poly [ADP-ribose] polymerase-1,Q8IUZ9,Homo sapiens,0.006,1.375
+156,Heat Shock Protein 90 (Hsp90),B3KPJ9,Homo sapiens,0.013,1.374
+157,Adenosine Receptor A1,A8K1L3,Homo sapiens,0.063,1.374
+158,Insulin-like growth factor I receptor,Q9UCC0,Homo sapiens,0.019,1.373
+159,ubiquitin-conjugating enzyme E2 N,Q16781,Homo sapiens,0.006,1.373
+160,Beta lactamase,n/a,Pseudomonas aeruginosa,0.006,1.373
+161,putative hexokinase HKDC1,n/a,Homo sapiens,0.013,1.372
+162,Isoprenylcysteine carboxyl methyltransferase,Q6FHT0,Homo sapiens,0.006,1.372
+163,"Fructose-1,6-bisphosphatase",P00636,Sus scrofa,0.013,1.372
+164,Peripheral-Type Benzodiazepine Receptor,P16257,Rattus norvegicus,0.013,1.372
+165,Apoptotic peptidase activating factor 1,O43297,Homo sapiens,0.013,1.371
+166,kallikrein-related peptidase 5 preproprotein,n/a,Homo sapiens,0.025,1.369
+167,tissue non-specific alkaline phosphatase precursor,Q5BKZ5,Homo sapiens,0.006,1.369
+168,Corticosteroid 11-beta-dehydrogenase isozyme 1,P28845,Homo sapiens,0.006,1.369
+169,GABA receptor alpha-1/alpha-2/alpha-3/alpha-4/alpha-5/alpha-6/beta-1/beta-2/beta-3/delta/epsilon/gamma-1/gamma-2/gamma-3/pi/theta subunit,n/a,Rattus norvegicus,0.038,1.369
+170,Arachidonate 5-lipoxygenase,P12527,Rattus norvegicus,0.044,1.368
+171,tyrosine-protein kinase ABL1 isoform a,Q13870,Homo sapiens,0.013,1.368
+172,Potassium-transporting ATPase alpha chain 1/beta chain,P19156,Sus scrofa,0.006,1.366
+173,HIV-1 Protease,n/a,Human immunodeficiency virus type 1,0.013,1.366
+174,Solute carrier family 22 member 12,Q96DT2,Homo sapiens,0.025,1.366
+175,Sigma opioid receptor,O00725,Homo sapiens,0.019,1.365
+176,"dTDP-4-dehydrorhamnose 3,5-epimerase RmlC",Q7D5I3,Mycobacterium tuberculosis H37Rv,0.006,1.365
+177,Prostatic acid phosphatase,Q96QM0,Homo sapiens,0.006,1.365
+178,Factor XIIa (fXIIa),P00748,Homo sapiens,0.013,1.365
+179,Cytochrome P450 2C9,Q16872,Homo sapiens,0.019,1.364
+180,Botulinum neurotoxin type A,P10845,Clostridium botulinum,0.006,1.364
+181,Phosphodiesterase 4A/4B/4D,P14645,Rattus norvegicus,0.006,1.364
+182,ABL,n/a,Homo sapiens,0.006,1.363
+183,"NACHT, LRR and PYD domains-containing protein 1 isoform 1",Q9BZZ9,Homo sapiens,0.006,1.363
+184,Adenosine A2a receptor,P46616,Cavia porcellus,0.006,1.363
+185,Cannabinoid CB1 receptor,P47746,Mus musculus,0.006,1.363
+186,tyrosine-protein phosphatase non-receptor type 11,n/a,Homo sapiens,0.006,1.363
+187,Cytochrome P450 2D6,Q2XNE0,Homo sapiens,0.006,1.363
+188,Voltage-gated potassium channel subunit Kv1.3,Q5VWN2,Homo sapiens,0.006,1.363
+189,diphosphomevalonate decarboxylase,n/a,Streptococcus pneumoniae D39,0.019,1.362
+190,Cannabinoid receptor 2,P47936,Mus musculus,0.006,1.362
+191,Cannabinoid receptor 1,P47746,Mus musculus,0.001,1.362
+192,eukaryotic translation initiation factor 2-alpha kinase 3,A0AVH1,Homo sapiens,0.006,1.362
+193,TGF-beta receptor type I,P36897,Homo sapiens,0.006,1.361
+194,Serotonin 2a (5-HT2a)/2b (5-HT2b)/2c (5-HT2c) receptor,n/a,Mus musculus,0.006,1.361
+195,FXN frataxin,P07817,Aspergillus niger,0.006,1.361
+196,Trace amine-associated receptor 1,Q96RJ0,Homo sapiens,0.01,1.361
+197,guanine nucleotide-binding protein subunit alpha-15,P30679,Homo sapiens,0.002,1.361
+198,matrix metalloproteinase 1,n/a,Homo sapiens,0.019,1.36
+199,Cyclin-Dependent Kinase 4 (CDK4),O00576,Homo sapiens,0.013,1.36
+200,Sigma non-opioid intracellular receptor 1,Q60492,Cavia porcellus,0.013,1.36
+201,Calpain 1,Q6DHV4,Homo sapiens,0.006,1.359
+202,FARNESYL PYROPHOSPHATE SYNTHASE,P14324,Homo sapiens,0.006,1.359
+203,P2X purinoceptor 7,Q64663,Rattus norvegicus,0.006,1.358
+204,Serotonin Receptor 2C,Q9NP28,Homo sapiens,0.019,1.358
+205,Phosphodiesterase 6A/6B/6C/6D/6G/6H,P16499,Homo sapiens,0.006,1.358
+206,Lysosomal Pro-X carboxypeptidase,P42785,Homo sapiens,0.006,1.357
+207,neurotensin receptor type 1,Q9H4H1,Homo sapiens,0.006,1.356
+208,"Phospholipase A2, membrane associated",P14555,Homo sapiens,0.006,1.356
+209,Hepatitis C virus NS5B RNA-dependent RNA polymerase,n/a,Hepatitis C virus,0.025,1.356
+210,melanin-concentrating hormone receptor 1,Q9BV08,Homo sapiens,0.031,1.356
+211,Envelope glycoprotein gp160,P04578,Human immunodeficiency virus type 1 group M subtype B (isolate HXB2)(HIV-1),0.006,1.355
+212,polo-like kinase,Q15153,Homo sapiens,0.006,1.355
+213,"mRNA interferase toxin, antitoxin is MazE",P0AE71,Escherichia coli str. K-12 substr. MG1655,0.006,1.355
+214,Thrombin,Q7Z7P3,Homo sapiens,0.006,1.355
+215,Acetylcholine receptor protein delta chain,P02718,Torpedo californica,0.006,1.355
+216,Adenosine A2b receptor/Receptor A2A,P29276,Rattus norvegicus,0.013,1.355
+217,Adenosine Receptor A1,A6NGP4,Homo sapiens,0.006,1.355
+218,nuclear receptor coactivator 1 isoform 1,O43793,Homo sapiens,0.013,1.355
+219,RGS8 protein,B4DGL9,Homo sapiens,0.006,1.354
+220,Androgen Receptor (AR),P10275,Homo sapiens,0.006,1.354
+221,Epidermal growth factor receptor (EGFR),n/a,Homo sapiens,0.013,1.354
+222,Melanin-Concentrating Hormone Receptor 1,Q9BV08,Homo sapiens,0.05,1.353
+223,Huntingtin,n/a,Homo sapiens,0.006,1.353
+224,Aldehyde dehydrogenase,Q6IV71,Homo sapiens,0.013,1.353
+225,Tubulin alpha-1/beta-1 chain,n/a,Homo sapiens,0.013,1.353
+226,Serotonin 3a (5-HT3a) receptor,Q99918,Homo sapiens,0.019,1.352
+227,glucose-6-phosphate dehydrogenase-6-phosphogluconolactonase,n/a,Plasmodium falciparum 3D7,0.006,1.352
+228,Phosphodiesterase 5,n/a,Sus scrofa,0.006,1.352
+229,signal transducer and activator of transcription 1 isoform alpha,A8K989,Homo sapiens,0.006,1.352
+230,Histone deacetylase 4,P56524,Homo sapiens,0.006,1.352
+231,GABA receptor alpha-1/alpha-2/alpha-3/alpha-4/alpha-5/alpha-6 subunit,n/a,Mus musculus,0.006,1.352
+232,Epoxide hydratase,Q16764,Homo sapiens,0.006,1.352
+233,Neuronal acetylcholine receptor protein alpha-7 subunit,Q53YK2,Rattus norvegicus,0.025,1.351
+234,Cyclin-Dependent Kinase 2 (CDK2),A8K7C6,Homo sapiens,0.006,1.35
+235,"Fructose-1,6-bisphosphatase 2",O00757,Homo sapiens,0.006,1.35
+236,Multidrug resistance-associated protein 1,n/a,Homo sapiens,0.006,1.35
+237,Peroxisome Proliferator-Activated Receptor gamma,O00684,Homo sapiens,0.013,1.349
+238,GABA receptor alpha-3/beta-3/gamma-2 subunit,n/a,Homo sapiens,0.006,1.348
+239,GABA receptor alpha-1/beta-3/gamma-2 subunit,n/a,Homo sapiens,0.006,1.348
+240,nucleotide-binding oligomerization domain containing 2,Q9HC29,Homo sapiens,0.006,1.348
+241,proto-oncogene tyrosine-protein kinase src,P12931,Homo sapiens,0.009,1.348
+242,Prostaglandin G/H synthase 2,P35354,Homo sapiens,0.006,1.347
+243,HIV-1 Reverse Transcriptase RNase H,n/a,Human immunodeficiency virus 1,0.006,1.347
+244,Cyclooxygenase-1,P22437,Mus musculus,0.013,1.346
+245,V916T KDR,P35968,Homo sapiens,0.007,1.345
+246,DYRK1A,Q9UNM5,Homo sapiens,0.006,1.345
+247,Monoamine Oxidase Type A (MAO-A)/oxidase B,P21397,Homo sapiens,0.006,1.344
+248,PDGFR-beta/Platelet-derived growth factor receptor alpha,B2RE69,Homo sapiens,0.025,1.344
+249,Dihydrofolate reductase,P00376,Bos taurus,0.013,1.344
+250,Cyclin-Dependent Kinase 1 (CDK1),A8K7C4,Homo sapiens,0.006,1.344
+251,Phosphodiesterase Type 3,O60865,Homo sapiens,0.013,1.343
+252,Dual specificity phosphatase Cdc25B,D3DVY2,Homo sapiens,0.006,1.343
+253,Kruppel-like factor 5,Q9UHP8,Homo sapiens,0.006,1.343
+254,Alpha-2A adrenergic receptor,P08913,Homo sapiens,0.006,1.343
+255,Phosphodiesterase 4A/4C/4D/Type 4,n/a,Homo sapiens,0.006,1.343
+256,Perilipin-1,O60240,Homo sapiens,0.003,1.342
+257,Perilipin-5,Q00G26,Homo sapiens,0.002,1.342
+258,Hepatocyte nuclear factor 4-alpha,P41235,Homo sapiens,0.001,1.342
+259,VCAM-1,Q6NUP8,Homo sapiens,0.006,1.342
+260,cysteine protease ATG4B isoform a,Q8WYM9,Homo sapiens,0.006,1.342
+261,Cannabinoid CB2 receptor,P47936,Mus musculus,0.006,1.341
+262,Amine oxidase [flavin-containing] B,P19643,Rattus norvegicus,0.003,1.341
+263,Breakpoint cluster region protein /Tyrosine-protein kinase ABL,A3KFJ3,Homo sapiens,0.006,1.341
+264,HTR1D,O08891,GUINEA PIG,0.006,1.341
+265,Valosin-containing protein,n/a,Homo sapiens,0.006,1.341
+266,Amine oxidase [flavin-containing] A,P21396,Rattus norvegicus,0.003,1.341
+267,serine/threonine-protein kinase 33,Q658S6,Homo sapiens,0.006,1.34
+268,Ephrin type-B receptor 4 precursor (Tyrosine-protein kinase receptor HTK).,Q9BTA5,Homo sapiens,0.006,1.34
+269,I-kappa-B Kinase 1 (IKK-alpha),O15111,Homo sapiens,0.006,1.34
+270,Tyrosine kinase non-receptor protein 2,Q07912,Homo sapiens,0.006,1.34
+271,Bromodomain-containing protein 2,P25440,Homo sapiens,0.002,1.339
+272,Estrogen Receptor (ER-alpha),n/a,Homo sapiens,0.006,1.339
+273,Tyrosine-protein kinase JAK2,O60674,Homo sapiens,0.006,1.339
+274,Cannabinoid Receptor 1,Q13949,Homo sapiens,0.006,1.339
+275,D(2) dopamine receptor,P61169,Rattus norvegicus,0.003,1.339
+276,Bromodomain-containing protein 3,Q15059,Homo sapiens,0.002,1.339
+277,Monoamine Oxidase Type A (MAO-A),Q63817,Rattus norvegicus,0.006,1.339
+278,Sigma non-opioid intracellular receptor 1,Q9R0C9,Rattus norvegicus,0.003,1.339
+279,Bromodomain-containing protein 4,O60885,Homo sapiens,0.002,1.339
+280,Dihydroorotate Dehydrogenase (DHODH),n/a,Plasmodium falciparum,0.006,1.338

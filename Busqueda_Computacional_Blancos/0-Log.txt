@@ -1,0 +1,19 @@
+Busquedas PHARMMAPPER:
+
+F9, NO Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+F9, 300 Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+F9, 300 Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+
+NQH, NO Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+NQH, NO Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1,wght_HBA:1,wght_HBD:1,wght_AR:1]
+
+NQH, 300 Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1,wght_HBA:1,wght_HBD:1,wght_AR:1]
+
+
+NQB, 50 Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1,wght_HBA:1,wght_HBD:1,wght_AR:1]
+
+NQB, NO Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1,wght_HBA:1,wght_HBD:1,wght_AR:1]

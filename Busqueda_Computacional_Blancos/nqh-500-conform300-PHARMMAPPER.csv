@@ -1,0 +1,1002 @@
+"Ligand: NQH
+"
+Pharma Model,Num Feature,Fit,Norm Fit,Num Hydrophobic,Num HB Acceptor,Num HB Donor,Num Positive,Num Negative,Num Aromatic,Name,Class,Uniplot,Function,Disease,"Idication
+"
+2jqd_A_cavity_1,3,2.495,0.8317,3,0,0,0,0,0,Acidic leucine-rich nuclear phosphoprotein 32 family member A,NONE,O35381,NONE,NONE,"NONE
+"
+4ayt_A_cavity_3,3,2.491,0.8304,3,0,0,0,0,0,NONE,NONE,NONE,NONE,NONE,"NONE
+"
+1ggz_A_cavity_1,3,2.471,0.8237,3,0,0,0,0,0,Calmodulin-like protein 3,NONE,P27482,NONE,NONE,"NONE
+"
+1bdg_A_cavity_4,3,2.471,0.8237,3,0,0,0,0,0,Hexokinase,NONE,Q26609,Involved in hexokinase activity,NONE,"NONE
+"
+3epy_B_cavity_1,3,2.471,0.8237,3,0,0,0,0,0,Acyl-CoA-binding domain-containing protein 7,NONE,Q8N6N7,NONE,NONE,"NONE
+"
+1vim_B_cavity_2,3,2.466,0.8221,3,0,0,0,0,0,Hypothetical protein AF_1796,NONE,O28478,Involved in sugar binding,NONE,"NONE
+"
+1h3b_C_cavity_7,3,2.466,0.8219,3,0,0,0,0,0,Squalene--hopene cyclase,NONE,P33247,Lipid transport and metabolism,NONE,"NONE
+"
+1qzt_A_cavity_1,3,2.464,0.8215,3,0,0,0,0,0,Phosphate acetyltransferase,NONE,P38503,NONE,NONE,"NONE
+"
+1z0d_A_cavity_1,3,2.461,0.8204,3,0,0,0,0,0,Ras-related protein Rab-5C,NONE,P35278,NONE,NONE,"NONE
+"
+1qwg_A_cavity_2,3,2.456,0.8187,3,0,0,0,0,0,Phosphosulfolactate synthase,NONE,Q57703,NONE,NONE,"NONE
+"
+1gk5_A_cavity_1,3,2.454,0.818,3,0,0,0,0,0,Pro-epidermal growth factor,NONE,P01132,NONE,NONE,"NONE
+"
+3dh4_D_cavity_2,3,2.453,0.8177,3,0,0,0,0,0,Sodium/glucose cotransporter,TRANSPORT PROTEIN,SGLT_VIBPA,Actively transports glucose into cells by Na(+) cotransport (By similarity).,NONE,"Diabetes mellitus;Non-insulin dependent diabetes;Obesity
+"
+2npu_A_cavity_1,3,2.45,0.8166,3,0,0,0,0,0,FKBP12-rapamycin complex-associated protein,TRANSFERASE,FRAP_HUMAN,"Acts as the target for the cell-cycle arrest and immunosuppressive effects of the FKBP12-rapamycin complex. Part of the TORC2 complex which plays a critical role in AKT1 Ser-473 phosphorylation, and may modulate the phosphorylation of PKCA and regulate ac",NONE,"Cancer;Solid tumor
+"
+1nlm_A_cavity_2,3,2.449,0.8164,3,0,0,0,0,0,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,NONE,P17443,Cell wall/membrane/envelope biogenesis,NONE,"NONE
+"
+3dz7_A_cavity_2,3,2.44,0.8134,3,0,0,0,0,0,S-adenosylmethionine decarboxylase proenzyme,NONE,P17707,Involved in adenosylmethionine decarboxylase activity,NONE,"S-Adenosylmethionine (SAMe) is used as a drug in Europe for the treatment of depression, liver disorders, fibromyalgia, and osteoarthritis. It has also been introduced into the United States market as a dietary supplement for the support of bone and joint health, as well as mood and emotional well being.
+"
+1m3s_A_cavity_3,3,2.437,0.8124,3,0,0,0,0,0,3-hexulose-6-phosphate isomerase,NONE,P42404,NONE,NONE,"NONE
+"
+1cqa_A_cavity_1,3,2.437,0.8122,3,0,0,0,0,0,Profilin,NONE,P25816,NONE,NONE,"NONE
+"
+2pih_A_cavity_2,3,2.435,0.8117,3,0,0,0,0,0,Uncharacterized protein ymcA,NONE,O31779,NONE,NONE,"NONE
+"
+1s68_A_cavity_2,3,2.435,0.8115,3,0,0,0,0,0,RNA ligase 2,NONE,P32277,Catalyzes intramolecular and intermolecular RNA strand joining (in vitro). May play a role in the repair of nicked RNA molecules.,NONE,"NONE
+"
+3duz_A_cavity_3,3,2.432,0.8107,3,0,0,0,0,0,Major envelope glycoprotein,NONE,P17501,NONE,NONE,"NONE
+"
+2vrw_B_cavity_3,3,2.432,0.8106,3,0,0,0,0,0,Ras-related C3 botulinum toxin substrate 1,SIGNALING PROTEIN,RAC1_HUMAN,"Plasma membrane-associated small GTPase which cycles between active GTP-bound and inactive GDP-bound states. In its active state, binds to a variety of effector proteins to regulate cellular responses such as secretory processes, phagocytosis of apoptotic;Isoform B has an accelerated GEF-independent GDP/GTP exchange and an impaired GTP hydrolysis, which is restored partially by GTPase-activating proteins. It is able to bind to the GTPase-binding domain of PAK but not full-length PAK in a GTP- dependent man",NONE,"NONE
+"
+1vli_A_cavity_4,3,2.425,0.8085,3,0,0,0,0,0,Spore coat polysaccharide biosynthesis protein spsE,NONE,P39625,NONE,NONE,"NONE
+"
+1o9y_C_cavity_2,3,2.425,0.8083,3,0,0,0,0,0,Type III secretion protein hrcQb,NONE,O85094,NONE,NONE,"NONE
+"
+2hdp_A_cavity_1,3,2.424,0.8081,3,0,0,0,0,0,E3 ubiquitin-protein ligase Mdm2,LIGASE,MDM2_HUMAN,"Inhibits TP53/p53- and TP73/p73-mediated cell cycle arrest and apoptosis by binding its transcriptional activation domain. Functions as a ubiquitin ligase E3, in the presence of E1 and E2, toward p53 and itself. Permits the nuclear export of p53 and targe","Seems to be amplified in certain tumors (including soft tissue sarcomas, osteosarcomas and gliomas). A higher frequency of splice variants lacking p53 binding domain sequences was found in late-stage and high-grade ovarian and bladder carcinomas. Four of the splice variants show loss of p53 binding.","Leukemia;Cancer;Solid tumor
+"
+1ije_A_cavity_5,3,2.424,0.8081,3,0,0,0,0,0,Elongation factor 1-alpha,NONE,P02994,"GTP-binding component of the eukaryotic elongation factor 1 complex (eEF1). In its active GTP-bound form, binds to and delivers aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis. In the presence of a correct codon-anticodon match between the aminoacyl-tRNA and the A-site codon of the ribosome-bound mRNA, the ribosome acts as a GTPase activator and the GTP is hydrolyzed. The inactive GDP-bound form leaves the ribosome and must be recycled by its guanine nucleotide exchange factor (GEF) (eEF1B subcomplex) before binding another molecule of aminoacyl-tRNA. Required for nuclear export of aminoacyl-tRNAs. May also be involved in translational quality control by targeting cotranslationally damaged proteins to the proteasome. Also exhibits actin filament-binding and -bundling activities and is involved in cytoskeleton organization. Plays a role as a negative regulator of GCN2 kinase activity by inhibiting GCN2-mediated eIF-2-alpha phosphorylation in amino acid-repleted cells (PubMed:21849502).",NONE,"NONE
+"
+2pjw_H_cavity_2,3,2.423,0.8077,3,0,0,0,0,0,Class E vacuolar protein-sorting machinery protein HSE1,NONE,P38753,NONE,NONE,"NONE
+"
+2dgr_A_cavity_1,3,2.418,0.8059,3,0,0,0,0,0,RNA-binding protein MEX3D,NONE,Q86XN8,NONE,NONE,"NONE
+"
+2d6f_D_cavity_3,3,2.406,0.802,3,0,0,0,0,0,Glutamyl-tRNA(Gln) amidotransferase subunit D,NONE,O26802,NONE,NONE,"NONE
+"
+1v5v_B_cavity_2,3,2.401,0.8005,3,0,0,0,0,0,Probable aminomethyltransferase,NONE,O58888,NONE,NONE,"NONE
+"
+1f3b_B_cavity_2,3,2.401,0.8003,3,0,0,0,0,0,Glutathione S-transferase A1,NONE,P13745,Involved in glutathione transferase activity,NONE,"For nutritional supplementation, also for treating dietary shortage or imbalance
+"
+2irp_A_cavity_2,3,2.393,0.7977,3,0,0,0,0,0,Methylthioribulose-1-phosphate dehydratase,NONE,O67788,NONE,NONE,"NONE
+"
+1u2w_C_cavity_1,3,2.388,0.796,3,0,0,0,0,0,Cadmium efflux system accessory protein,NONE,P20047,NONE,NONE,"NONE
+"
+2p67_A_cavity_1,3,2.382,0.7938,3,0,0,0,0,0,LAO/AO transport system kinase,NONE,P27254,NONE,NONE,"NONE
+"
+1gt5_B_cavity_1,3,2.379,0.793,3,0,0,0,0,0,Odorant-binding protein,NONE,P07435,Involved in chemical odorant binding,NONE,"NONE
+"
+1j1e_B_cavity_1,3,2.375,0.7917,3,0,0,0,0,0,"Troponin C, slow skeletal and cardiac muscles",NONE,P63316,Involved in calcium ion binding,NONE,"For short term treatment of acutely decompensated severe chronic heart failure (CHF). Also being investigated for use/treatment in heart disease.
+"
+2v3c_D_cavity_5,3,2.354,0.7847,3,0,0,0,0,0,Signal recognition particle 19 kDa protein,NONE,Q58440,NONE,NONE,"NONE
+"
+2zm5_B_cavity_1,3,2.354,0.7847,3,0,0,0,0,0,tRNA Delta(2)-isopentenylpyrophosphate transferase,NONE,P16384,NONE,NONE,"NONE
+"
+1ghh_A_cavity_1,3,2.354,0.7847,3,0,0,0,0,0,DNA-damage-inducible protein I,NONE,P0ABR1,NONE,NONE,"NONE
+"
+1wh9_A_cavity_1,3,2.346,0.7821,3,0,0,0,0,0,40S ribosomal protein S3,NONE,P23396,NONE,NONE,"NONE
+"
+1d4m_1_cavity_1,3,2.334,0.778,3,0,0,0,0,0,Genome polyprotein,NONE,P21404,NONE,NONE,"NONE
+"
+3hzq_A_cavity_2,3,2.327,0.7755,3,0,0,0,0,0,Large-conductance mechanosensitive channel,NONE,P68806,NONE,NONE,"NONE
+"
+1xk4_E_cavity_1,3,2.321,0.7738,3,0,0,0,0,0,Protein S100-A8,METAL BINDING PROTEIN,S10A8_HUMAN,Expressed by macrophages in chronic inflammations. Also expressed in epithelial cells constitutively or induced during dermatoses. May interact with components of the intermediate filaments in monocytes and epithelial cells.,NONE,"NONE
+"
+1tu1_A_cavity_3,3,2.319,0.7731,3,0,0,0,0,0,Hypothetical protein,NONE,Q9I738,NONE,NONE,"NONE
+"
+1qu6_A_cavity_2,3,2.312,0.7706,3,0,0,0,0,0,"Interferon-induced, double-stranded RNA-activated protein kinase",NONE,P19525,NONE,NONE,"NONE
+"
+3fys_A_cavity_2,3,2.31,0.7701,3,0,0,0,0,0,Protein degV,NONE,P32436,NONE,NONE,"NONE
+"
+2i1y_A_cavity_1,3,2.309,0.7698,3,0,0,0,0,0,Receptor-type tyrosine-protein phosphatase-like N,NONE,Q16849,NONE,NONE,"NONE
+"
+2dwk_A_cavity_1,3,2.302,0.7673,3,0,0,0,0,0,Protein RUFY3,NONE,Q9D394,NONE,NONE,"NONE
+"
+3gi8_C_cavity_1,3,2.269,0.7564,3,0,0,0,0,0,Uncharacterized protein MJ0609,NONE,Q58026,NONE,NONE,"NONE
+"
+2nya_A_cavity_6,3,2.264,0.7548,3,0,0,0,0,0,Periplasmic nitrate reductase,NONE,P33937,NONE,NONE,"NONE
+"
+1t11_A_cavity_5,3,2.25,0.7501,3,0,0,0,0,0,Trigger factor,NONE,Q9KQS5,NONE,NONE,"NONE
+"
+1b93_C_cavity_1,4,2.996,0.7491,3,1,0,0,0,0,Methylglyoxal synthase,NONE,P0A731,NONE,NONE,"NONE
+"
+1n8z_C_cavity_2,4,2.976,0.7439,2,1,0,0,1,0,Receptor tyrosine-protein kinase erbB-2,TRANSFERASE,ERBB2_HUMAN,"Essential component of a neuregulin-receptor complex, although neuregulins do not interact with it alone. GP30 is a potential ligand for this receptor. Not activated by EGF, TGF- alpha and amphiregulin.",NONE,"Colon tumor;Melanoma;Cancer;Non-small-cell lung cancer;Breast tumor;Lung tumor;Colorectal tumor;Solid tumor;Ovary tumor;Prostate tumor;Pancreas tumor;Stomach tumor;Female genital tract tumor
+"
+1jl2_A_cavity_1,4,2.974,0.7435,2,2,0,0,0,0,Ribonuclease HI,NONE,P0A7Y6,NONE,NONE,"NONE
+"
+2cst_B_cavity_4,4,2.967,0.7419,3,1,0,0,0,0,"Aspartate aminotransferase, cytoplasmic",NONE,P00504,"Involved in transferase activity, transferring nitrogenous groups",NONE,"NONE
+"
+2i7x_A_cavity_4,4,2.946,0.7365,2,2,0,0,0,0,Cleavage and polyadenylation specificity factor subunit 3,"RNA BINDING PROTEIN, PROTEIN BINDING",CPSF3_HUMAN,"Component of the cleavage and polyadenylation specificity factor (CPSF) complex that play a key role in pre-mRNA 3-end formation, recognizing the AAUAAA signal sequence and interacting with poly(A) polymerase and other factors to bring about cleavage and",NONE,"NONE
+"
+3fmo_A_cavity_3,4,2.919,0.7298,2,2,0,0,0,0,Nuclear pore complex protein Nup214,NONE,P35658,NONE,NONE,"NONE
+"
+2qfd_H_cavity_1,4,2.917,0.7293,2,1,0,1,0,0,Probable ATP-dependent RNA helicase DDX58,HYDROLASE,DDX58_HUMAN,"Involved in innate immune defense against viruses. Upon interaction with intracellular dsRNA produced during viral replication, triggers a transduction cascade involving MAVS/IPS1, which results in the activation of NF-kappa-B, IRF3 and IRF7 and the induc",NONE,"NONE
+"
+1yav_B_cavity_1,4,2.893,0.7233,2,1,0,0,1,0,Uncharacterized protein ykuL,NONE,O31698,NONE,NONE,"NONE
+"
+2fjk_C_cavity_1,4,2.842,0.7104,2,1,0,1,0,0,Fructose-bisphosphate aldolase,NONE,Q703I2,NONE,NONE,"NONE
+"
+1k7a_A_cavity_1,4,2.827,0.7069,2,2,0,0,0,0,Protein C-ets-1,NONE,P27577,NONE,NONE,"NONE
+"
+2gnx_A_cavity_3,4,2.827,0.7067,3,1,0,0,0,0,UPF0536 protein C12orf66 homolog,NONE,Q6P1I3,NONE,NONE,"NONE
+"
+1n44_A_cavity_4,4,2.799,0.6999,2,1,0,1,0,0,Annexin A5,NONE,P14668,Involved in calcium ion binding,NONE,"NONE
+"
+3b8c_B_cavity_6,4,2.788,0.6971,2,1,0,0,1,0,"ATPase 2, plasma membrane-type",NONE,P19456,NONE,NONE,"NONE
+"
+1uyr_A_cavity_7,4,2.759,0.6898,3,1,0,0,0,0,Acetyl-CoA carboxylase,NONE,Q00955,Lipid transport and metabolism,NONE,"For nutritional supplementation, also for treating dietary shortage or imbalance
+"
+1fgu_B_cavity_1,4,2.724,0.6809,2,1,0,0,1,0,Replication protein A 70 kDa DNA-binding subunit,NONE,P27694,NONE,NONE,"NONE
+"
+2i7k_A_cavity_1,4,2.714,0.6785,3,1,0,0,0,0,Bromodomain-containing protein 7,NONE,Q9NPI1,NONE,NONE,"NONE
+"
+2cop_A_cavity_3,4,2.699,0.6747,2,2,0,0,0,0,Acyl-CoA-binding domain-containing protein 6,NONE,Q9BR61,NONE,NONE,"NONE
+"
+1snl_A_cavity_2,4,2.68,0.67,3,1,0,0,0,0,Nucleobindin-1,METAL BINDING PROTEIN,NUCB1_HUMAN,Major calcium-binding protein of the Golgi. May have a role in calcium homeostasis (By similarity).,NONE,"NONE
+"
+2aqt_B_cavity_1,4,2.676,0.6689,1,2,0,0,1,0,Superoxide dismutase [Cu-Zn],NONE,Q59623,NONE,NONE,"NONE
+"
+3bs8_A_cavity_2,4,2.667,0.6668,3,1,0,0,0,0,"Glutamate-1-semialdehyde 2,1-aminomutase",NONE,P30949,NONE,NONE,"NONE
+"
+1qrj_A_cavity_2,4,2.666,0.6665,3,1,0,0,0,0,Gag-Pro-Pol polyprotein,NONE,P03362,NONE,NONE,"NONE
+"
+2c6s_H_cavity_3,4,2.652,0.663,3,1,0,0,0,0,Penton protein,NONE,P03276,Involved in structural molecule activity,NONE,"NONE
+"
+1onf_A_cavity_7,4,2.639,0.6598,3,1,0,0,0,0,Glutathione reductase,NONE,Q94655,Involved in oxidoreductase activity,NONE,"NONE
+"
+3bhd_B_cavity_2,4,2.598,0.6494,2,1,0,0,1,0,Thiamine-triphosphatase,NONE,Q9BU02,NONE,NONE,"NONE
+"
+1pc8_B_cavity_2,4,2.592,0.6481,3,1,0,0,0,0,Beta-galactoside-specific lectin 4,NONE,Q6ITZ3,NONE,NONE,"NONE
+"
+2aeu_A_cavity_4,4,2.582,0.6456,3,1,0,0,0,0,UPF0425 pyridoxal phosphate-dependent protein MJ0158,NONE,Q57622,NONE,NONE,"NONE
+"
+1qz2_B_cavity_4,4,2.563,0.6407,3,1,0,0,0,0,FK506-binding protein 4,ISOMERASE/CHAPERONE,FKBP4_HUMAN,Component of unactivated mammalian steroid receptor complexes that sediment at 8-10 S. May have a rotamase activity. May play a role in the intracellular trafficking of heterooligomeric forms of steroid hormone receptors.,NONE,"NONE
+"
+2vre_A_cavity_4,4,2.554,0.6384,3,1,0,0,0,0,"Delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase, mitochondrial",NONE,Q13011,NONE,NONE,"NONE
+"
+1ka9_F_cavity_2,4,2.549,0.6373,2,1,0,1,0,0,Imidazole glycerol phosphate synthase subunit hisF,NONE,Q7SIB9,NONE,NONE,"NONE
+"
+1w07_B_cavity_5,4,2.537,0.6342,2,2,0,0,0,0,"Acyl-coenzyme A oxidase 1, peroxisomal",NONE,O65202,Involved in acyl-CoA oxidase activity,NONE,"NONE
+"
+1ku5_A_cavity_1,4,2.488,0.6219,4,0,0,0,0,0,Archaeal histone A,NONE,O74098,Involved in sequence-specific DNA binding,NONE,"NONE
+"
+2cr7_A_cavity_2,4,2.487,0.6217,4,0,0,0,0,0,Paired amphipathic helix protein Sin3b,NONE,Q62141,NONE,NONE,"NONE
+"
+1oy0_C_cavity_1,4,2.485,0.6212,3,0,0,1,0,0,3-methyl-2-oxobutanoate hydroxymethyltransferase,NONE,P0A5Q8,NONE,NONE,"NONE
+"
+1w36_F_cavity_7,4,2.482,0.6205,3,1,0,0,0,0,Exodeoxyribonuclease V gamma chain,NONE,P07648,NONE,NONE,"NONE
+"
+2gfp_B_cavity_5,4,2.477,0.6193,4,0,0,0,0,0,Multidrug resistance protein D,NONE,P31442,NONE,NONE,"NONE
+"
+2a2g_D_cavity_1,4,2.471,0.6178,4,0,0,0,0,0,Major urinary protein,NONE,P02761,Involved in phermone binding,NONE,"NONE
+"
+2dqn_A_cavity_2,4,2.471,0.6178,4,0,0,0,0,0,Glutamyl-tRNA(Gln) amidotransferase subunit A,NONE,P63488,NONE,NONE,"NONE
+"
+2jwe_A_cavity_1,4,2.471,0.6177,4,0,0,0,0,0,Tight junction protein ZO-1,NONE,Q07157,NONE,NONE,"NONE
+"
+2wdv_G_cavity_3,4,2.468,0.6171,4,0,0,0,0,0,Succinate dehydrogenase flavoprotein subunit,NONE,P0AC41,Involved in oxidoreductase activity,NONE,"NONE
+"
+3bxz_A_cavity_7,4,2.467,0.6168,4,0,0,0,0,0,Protein translocase subunit secA,NONE,P10408,NONE,NONE,"NONE
+"
+1mkm_A_cavity_2,4,2.467,0.6168,4,0,0,0,0,0,"Transcriptional regulator, IclR family",NONE,Q9WXS0,Involved in DNA binding,NONE,"NONE
+"
+1j3n_B_cavity_1,4,2.467,0.6168,4,0,0,0,0,0,Transferase,NONE,Q7SIC5,Involved in catalytic activity,NONE,"NONE
+"
+1ig3_A_cavity_1,4,2.467,0.6168,4,0,0,0,0,0,Thiamin pyrophosphokinase 1,NONE,Q9H3S4,Coenzyme transport and metabolism,NONE,"For the treatment of thiamine and niacin deficiency states, Korsakovs alcoholic psychosis, Wernicke-Korsakov syndrome, delirium, and peripheral neuritis.
+"
+3cki_B_cavity_3,4,2.467,0.6167,3,0,0,0,1,0,ADAM 17,"HYDROLASE, HYDROLASE INHIBITOR",ADA17_HUMAN,"Cleaves the membrane-bound precursor of TNF-alpha to its mature soluble form. Responsible for the proteolytic release of several other cell-surface proteins, including p75 TNF-receptor, interleukin 1 receptor type II, p55 TNF-receptor, transforming growth",NONE,"Psoriasis;Inflammation;Rheumatoid arthritis;Cardiac failure;Multiple sclerosis;Metastasis;Immune disorder
+"
+2e02_A_cavity_5,4,2.466,0.6164,4,0,0,0,0,0,"Cysteine proteinase 1, mitochondrial",NONE,Q01532,NONE,NONE,"NONE
+"
+1zrt_C_cavity_6,4,2.466,0.6164,4,0,0,0,0,0,Ubiquinol-cytochrome c reductase iron-sulfur subunit,NONE,P08500,NONE,NONE,"NONE
+"
+2nro_B_cavity_4,4,2.463,0.6156,4,0,0,0,0,0,Molybdopterin biosynthesis protein moeA,NONE,P12281,NONE,NONE,"NONE
+"
+3bhy_A_cavity_4,4,2.463,0.6156,4,0,0,0,0,0,Death-associated protein kinase 3,TRANSFERASE,DAPK3_HUMAN,Serine/threonine kinase which acts as a positive regulator of apoptosis. Phosphorylates histone H3 on Thr-11 at centromeres during mitosis.,NONE,"NONE
+"
+1ieb_A_cavity_1,4,2.461,0.6153,4,0,0,0,0,0,"H-2 class II histocompatibility antigen, E-D alpha chain",NONE,P01904,NONE,NONE,"NONE
+"
+2pp4_A_cavity_2,4,2.46,0.6151,4,0,0,0,0,0,Protein CBFA2T1,TRANSCRIPTION,MTG8_HUMAN,Transcription regulator that excerts its function by binding to histone deacetylases and transcription factors. Can repress transactivation mediated by TCF12.,A chromosomal aberration involving RUNX1T1 is a cause of acute myeloid leukemia (AML-M2). Translocation t(8;21)(q22;q22) with RUNX1/AML1.;Defects in RUNX1T1 may be a cause of colorectal cancer (CRC) [MIM:114500].,"NONE
+"
+2jhq_A_cavity_2,4,2.46,0.6151,4,0,0,0,0,0,Uracil-DNA glycosylase,NONE,Q9KPK8,NONE,NONE,"NONE
+"
+1osa_A_cavity_2,4,2.46,0.6151,4,0,0,0,0,0,Calmodulin,NONE,P07463,Involved in calcium ion binding,NONE,"NONE
+"
+1d06_A_cavity_1,4,2.458,0.6146,4,0,0,0,0,0,Sensor protein fixL,NONE,P10955,Involved in ATP binding,NONE,"NONE
+"
+3ct4_C_cavity_2,4,2.454,0.6136,4,0,0,0,0,0,"PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit dhaK",NONE,Q9CIV8,NONE,NONE,"NONE
+"
+2i15_A_cavity_1,4,2.451,0.6129,4,0,0,0,0,0,Uncharacterized protein MG296 homolog,NONE,P75364,NONE,NONE,"NONE
+"
+1wvc_A_cavity_2,4,2.45,0.6125,4,0,0,0,0,0,Glucose-1-phosphate cytidylyltransferase,NONE,P26396,Involved in nucleotidyltransferase activity,NONE,"NONE
+"
+2v0v_B_cavity_1,4,2.449,0.6122,4,0,0,0,0,0,Nuclear receptor subfamily 1 group D member 2,NONE,Q14995,NONE,NONE,"NONE
+"
+2ex5_A_cavity_2,4,2.448,0.6119,4,0,0,0,0,0,DNA endonuclease I-CeuI,NONE,P32761,NONE,NONE,"NONE
+"
+2owi_A_cavity_1,4,2.446,0.6115,4,0,0,0,0,0,Regulator of G-protein signaling 18,SIGNALING PROTEIN,RGS18_HUMAN,"Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form. Binds to G(i) alpha-1, G(i) alpha- 2, G(i) alpha-3 and G(q) alpha.",NONE,"NONE
+"
+2ew0_A_cavity_1,4,2.446,0.6114,4,0,0,0,0,0,UPF0301 protein ACIAD0353,NONE,Q6FF54,NONE,NONE,"NONE
+"
+3hki_E_cavity_1,4,2.442,0.6105,4,0,0,0,0,0,Prothrombin,NONE,P19221,NONE,NONE,"NONE
+"
+1xag_A_cavity_2,4,2.437,0.6094,3,0,0,1,0,0,3-dehydroquinate synthase,NONE,Q6GGU4,Amino acid transport and metabolism,NONE,"NONE
+"
+1sse_B_cavity_1,4,2.432,0.6081,4,0,0,0,0,0,AP-1-like transcription factor YAP1,NONE,P19880,NONE,NONE,"NONE
+"
+1clz_H_cavity_1,4,2.432,0.6081,4,0,0,0,0,0,Ig gamma-3 chain C region,NONE,P03987,NONE,NONE,"NONE
+"
+2yxr_A_cavity_7,4,2.429,0.6072,4,0,0,0,0,0,Preprotein translocase subunit secY,NONE,Q60175,NONE,NONE,"NONE
+"
+1b0n_B_cavity_2,4,2.429,0.6072,4,0,0,0,0,0,HTH-type transcriptional regulator sinR,NONE,P06533,NONE,NONE,"NONE
+"
+2veq_A_cavity_3,4,2.422,0.6054,4,0,0,0,0,0,Centromere DNA-binding protein complex CBF3 subunit B,NONE,P40969,NONE,NONE,"NONE
+"
+1tyb_E_cavity_2,4,2.42,0.605,4,0,0,0,0,0,Tyrosyl-tRNA synthetase,NONE,P00952,NONE,NONE,"NONE
+"
+2qtz_A_cavity_3,4,2.406,0.6014,4,0,0,0,0,0,"Methionine synthase reductase, mitochondrial",NONE,Q9UBK8,NONE,NONE,"NONE
+"
+3emj_G_cavity_1,4,2.406,0.6014,4,0,0,0,0,0,Inorganic pyrophosphatase,NONE,Q9ZCW5,NONE,NONE,"NONE
+"
+2inr_A_cavity_2,4,2.404,0.601,4,0,0,0,0,0,DNA topoisomerase 4 subunit A,NONE,Q6G9K4,NONE,NONE,"NONE
+"
+1y88_A_cavity_1,4,2.402,0.6005,3,1,0,0,0,0,Uncharacterized protein AF_1548,NONE,O28724,NONE,NONE,"NONE
+"
+1ljp_A_cavity_1,4,2.4,0.6,4,0,0,0,0,0,Beta-elicitin cinnamomin,NONE,P15569,NONE,NONE,"NONE
+"
+2h9v_A_cavity_4,5,2.999,0.5998,3,0,1,0,1,0,Rho-associated protein kinase 2,NONE,Q28021,"Protein kinase which is a key regulator of actin cytoskeleton and cell polarity. Involved in regulation of smooth muscle contraction, actin cytoskeleton organization, stress fiber and focal adhesion formation, neurite retraction, cell adhesion and motility via phosphorylation of ADD1, BRCA2, CNN1, EZR, DPYSL2, EP300, MSN, MYL9/MLC2, NPM1, RDX, PPP1R12A and VIM. Phosphorylates SORL1 and IRF4. Acts as a negative regulator of VEGF-induced angiogenic endothelial cell activation. Positively regulates the activation of p42/MAPK1-p44/MAPK3 and of p90RSK/RPS6KA1 during myogenic differentiation. Plays an important role in the timely initiation of centrosome duplication. Inhibits keratinocyte terminal differentiation. May regulate closure of the eyelids and ventral body wall through organization of actomyosin bundles. Plays a critical role in the regulation of spine and synaptic properties in the hippocampus. Plays an important role in generating the circadian rhythm of the aortic myofilament Ca(2+) sensitivity and vascular contractility by modulating the myosin light chain phosphorylation.",NONE,"NONE
+"
+1rf8_A_cavity_3,4,2.399,0.5996,4,0,0,0,0,0,Eukaryotic translation initiation factor 4E,NONE,P07260,Involved in RNA binding,NONE,"NONE
+"
+2hmn_A_cavity_2,5,2.992,0.5985,3,0,1,0,1,0,"Naphthalene 1,2-dioxygenase subunit alpha",NONE,P0A111,NONE,NONE,"NONE
+"
+2jub_A_cavity_1,4,2.393,0.5983,4,0,0,0,0,0,Internal protein I,NONE,P03718,NONE,NONE,"NONE
+"
+1n2s_A_cavity_3,4,2.393,0.5983,4,0,0,0,0,0,dTDP-4-dehydrorhamnose reductase,NONE,P26392,Cell wall/membrane/envelope biogenesis,NONE,"NONE
+"
+2opx_A_cavity_3,4,2.392,0.598,4,0,0,0,0,0,Lactaldehyde dehydrogenase,NONE,P25553,NONE,NONE,"NONE
+"
+1b7a_B_cavity_1,5,2.989,0.5979,3,0,1,0,1,0,Phosphatidylethanolamine-binding protein 1,NONE,P13696,HCNP may be involved in the function of the presynaptic cholinergic neurons of the central nervous system. HCNP increases the production of choline acetyltransferase but not acetylcholinesterase. Seems to be mediated by a specific receptor,NONE,"NONE
+"
+1evy_A_cavity_3,4,2.389,0.5971,4,0,0,0,0,0,"Glycerol-3-phosphate dehydrogenase [NAD+], glycosomal",NONE,P90551,Involved in oxidoreductase activity,NONE,"NONE
+"
+1lj0_C_cavity_1,4,2.385,0.5963,4,0,0,0,0,0,Cytochrome b5 type B,NONE,P04166,Involved in heme binding,NONE,"NONE
+"
+1f81_A_cavity_1,4,2.38,0.595,4,0,0,0,0,0,CREB-binding protein,NONE,P45481,NONE,NONE,"NONE
+"
+2oqc_A_cavity_5,4,2.373,0.5933,3,0,0,0,1,0,Uncharacterized protein yxeI,NONE,P54948,NONE,NONE,"NONE
+"
+2ayn_C_cavity_2,5,2.956,0.5912,3,1,0,1,0,0,Ubiquitin carboxyl-terminal hydrolase 14,HYDROLASE,UBP14_HUMAN,NONE,NONE,"NONE
+"
+2cra_A_cavity_1,5,2.955,0.591,4,1,0,0,0,0,Homeobox protein Hox-B13,GENE REGULATION,HXB13_HUMAN,Sequence-specific transcription factor which is part of a developmental regulatory system that provides cells with specific positional identities on the anterior-posterior axis.,NONE,"NONE
+"
+2ov6_A_cavity_1,4,2.359,0.5899,4,0,0,0,0,0,V-type ATP synthase subunit F,NONE,Q60185,NONE,NONE,"NONE
+"
+1gzq_A_cavity_1,5,2.937,0.5875,4,1,0,0,0,0,T-cell surface glycoprotein CD1b,GLYCOPROTEIN,CD1B_HUMAN,Antigen-presenting protein that binds self and non-self lipid and glycolipid antigens and presents them to T-cell receptors on natural killer T-cells.,NONE,"NONE
+"
+1fj4_C_cavity_1,4,2.35,0.5875,3,0,0,0,1,0,3-oxoacyl-[acyl-carrier-protein] synthase 1,NONE,P0A953,Lipid transport and metabolism,NONE,"For use as a biochemical tool, Cerulenin is shown to cause dramatic weight loss in animals
+"
+1fft_C_cavity_1,4,2.349,0.5873,4,0,0,0,0,0,Ubiquinol oxidase subunit 1,NONE,P0ABI8,NONE,NONE,"NONE
+"
+1y1u_A_cavity_3,5,2.936,0.5871,2,2,0,0,1,0,Signal transducer and activator of transcription 5A,NONE,P42230,NONE,NONE,"NONE
+"
+1irz_A_cavity_1,4,2.346,0.5864,3,0,0,0,1,0,Two-component response regulator ARR10,NONE,O49397,NONE,NONE,"NONE
+"
+1ggt_A_cavity_2,5,2.93,0.586,4,1,0,0,0,0,Coagulation factor XIII A chain,BLOOD COAGULATION,F13A_HUMAN,"Factor XIII is activated by thrombin and calcium ion to a transglutaminase that catalyzes the formation of gamma-glutamyl- epsilon-lysine cross-links between fibrin chains, thus stabilizing the fibrin clot. Also cross-link alpha-2-plasmin inhibitor, or fi","Defects in F13A1 are the cause of F13A deficiency [MIM:134570]. F13A deficiency is an autosomal recessive disorder characterized by a life-long bleeding tendency, impaired wound healing and spontaneous abortion in affected women. In addition to the common presentation such as subcutaneous and intramuscular haematomas, severe bleeding such as intracranial hemorrhages may occur.","NONE
+"
+1v9s_A_cavity_1,5,2.925,0.585,4,1,0,0,0,0,Uracil phosphoribosyltransferase,NONE,Q72J35,NONE,NONE,"NONE
+"
+2q2e_B_cavity_8,4,2.335,0.5837,4,0,0,0,0,0,Type II DNA topoisomerase VI subunit A,NONE,Q8PUB7,NONE,NONE,"NONE
+"
+2ebz_A_cavity_1,4,2.326,0.5814,2,1,0,1,0,0,Regulator of G-protein signaling 12,SIGNALING PROTEIN,RGS12_HUMAN,Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form.,NONE,"NONE
+"
+1xio_A_cavity_1,4,2.325,0.5812,4,0,0,0,0,0,Bacteriorhodopsin,NONE,Q8YSC4,Involved in ion channel activity,NONE,"NONE
+"
+2e8x_A_cavity_2,4,2.322,0.5805,3,1,0,0,0,0,Geranylgeranyl pyrophosphate synthetase,NONE,Q12051,NONE,NONE,"NONE
+"
+2i9x_A_cavity_1,4,2.318,0.5795,3,1,0,0,0,0,Putative septation protein spoVG,NONE,Q8CML1,NONE,NONE,"NONE
+"
+1f5x_A_cavity_2,4,2.307,0.5766,3,0,0,0,1,0,Proto-oncogene vav,NONE,P27870,NONE,NONE,"NONE
+"
+1m1b_B_cavity_4,4,2.296,0.5739,3,0,0,0,1,0,Phosphoenolpyruvate phosphomutase,NONE,P56839,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2yww_B_cavity_1,5,2.868,0.5736,4,1,0,0,0,0,Aspartate carbamoyltransferase regulatory chain,NONE,Q58801,NONE,NONE,"NONE
+"
+1oqn_A_cavity_1,4,2.292,0.573,4,0,0,0,0,0,Disabled homolog 1,NONE,P97318,NONE,NONE,"NONE
+"
+1nvm_F_cavity_1,4,2.289,0.5722,3,0,0,0,1,0,4-hydroxy-2-oxovalerate aldolase,NONE,P51016,NONE,NONE,"NONE
+"
+1ud9_A_cavity_1,4,2.287,0.5719,4,0,0,0,0,0,DNA polymerase sliding clamp A,NONE,Q975N2,NONE,NONE,"NONE
+"
+1es8_A_cavity_1,4,2.28,0.5701,4,0,0,0,0,0,Type II restriction enzyme BglII,NONE,Q45488,Recognizes the double-stranded sequence AGATCT and cleaves after A-1,NONE,"NONE
+"
+1ay5_B_cavity_5,5,2.846,0.5692,3,0,1,1,0,0,Aromatic-amino-acid aminotransferase,NONE,P95468,Amino acid transport and metabolism,NONE,"NONE
+"
+1taf_A_cavity_2,4,2.276,0.5689,4,0,0,0,0,0,Transcription initiation factor TFIID subunit 9,NONE,Q27272,NONE,NONE,"NONE
+"
+1gmg_B_cavity_1,4,2.272,0.568,4,0,0,0,0,0,Regulatory protein rop,NONE,P03051,"Regulates plasmid DNA replication by modulating the initiation of transcription of the primer RNA precursor. Processing of the precursor of the primer, RNAII, is inhibited by hydrogen bonding of RNAII to its complementary sequence in RNAI. ROP increases the affinity of RNAI for RNAII and thus decreases the rate of replication initiation events",NONE,"NONE
+"
+1t9k_B_cavity_2,5,2.837,0.5674,4,1,0,0,0,0,Methylthioribose-1-phosphate isomerase,NONE,Q9X013,NONE,NONE,"NONE
+"
+1o9k_D_cavity_1,5,2.827,0.5653,4,1,0,0,0,0,Transcription factor E2F1,TUMOUR SUPPRESSOR,E2F1_HUMAN,"Transcription activator that binds DNA cooperatively with dp proteins through the E2 recognition site, 5-TTTC[CG]CGC- 3 found in the promoter region of a number of genes whose products are involved in cell cycle regulation or in DNA replication. The DRT",NONE,"Cancer
+"
+2qp4_A_cavity_3,4,2.254,0.5635,3,1,0,0,0,0,Bile salt sulfotransferase,NONE,Q06520,Involved in sulfotransferase activity,NONE,"NONE
+"
+1s5a_A_cavity_1,7,3.922,0.5603,3,1,1,2,0,0,Hypothetical protein yesE,NONE,O31511,NONE,NONE,"NONE
+"
+1vcp_C_cavity_1,5,2.801,0.5603,3,2,0,0,0,0,Structural polyprotein,NONE,P03315,Involved in structural molecule activity,NONE,"NONE
+"
+2j47_A_cavity_1,7,3.915,0.5592,3,1,1,0,2,0,O-GlcNAcase BT_4395,NONE,Q89ZI2,NONE,NONE,"NONE
+"
+1oqp_A_cavity_1,4,2.236,0.559,4,0,0,0,0,0,Caltractin,NONE,P05434,NONE,NONE,"NONE
+"
+1xjv_A_cavity_3,5,2.787,0.5574,3,1,0,0,1,0,Protection of telomeres protein 1,NONE,Q9NUX5,NONE,NONE,"NONE
+"
+1e60_C_cavity_2,4,2.228,0.5571,2,2,0,0,0,0,Dimethyl sulfoxide/trimethylamine N-oxide reductase,NONE,Q52675,NONE,NONE,"NONE
+"
+1x65_A_cavity_1,6,3.311,0.5518,4,1,0,0,1,0,Cold shock domain-containing protein E1,NONE,O75534,NONE,NONE,"NONE
+"
+3d3l_B_cavity_3,5,2.745,0.5491,3,0,1,0,1,0,"Arachidonate 12-lipoxygenase, 12S-type",NONE,P18054,NONE,NONE,"NONE
+"
+1xqp_A_cavity_2,5,2.745,0.5491,3,0,1,1,0,0,N-glycosylase/DNA lyase,NONE,Q8ZVK6,"DNA repair enzyme that is part of the base excision repair (BER) pathway; protects from oxidative damage by removing the major product of DNA oxidation, 8-oxoguanine (GO), from single- and double-stranded DNA substrates",NONE,"NONE
+"
+3cm0_A_cavity_2,5,2.742,0.5484,3,2,0,0,0,0,Adenylate kinase,NONE,Q5SHQ9,NONE,NONE,"NONE
+"
+1em2_A_cavity_1,5,2.723,0.5445,4,1,0,0,0,0,StAR-related lipid transfer protein 3,NONE,Q14849,NONE,NONE,"NONE
+"
+2qxl_A_cavity_2,7,3.811,0.5444,3,2,0,0,2,0,Heat shock protein homolog SSE1,NONE,P32589,NONE,NONE,"NONE
+"
+2vpk_A_cavity_1,5,2.682,0.5363,3,0,1,1,0,0,Myoneurin,NONE,Q9NPC7,NONE,NONE,"NONE
+"
+2hhk_M_cavity_5,5,2.681,0.5362,4,1,0,0,0,0,Reaction center protein H chain,NONE,P0C0Y7,NONE,NONE,"NONE
+"
+1d6v_L_cavity_1,5,2.671,0.5343,3,2,0,0,0,0,Ig gamma-1 chain C region,NONE,P01857,NONE,NONE,"NONE
+"
+1so0_C_cavity_2,5,2.663,0.5327,3,0,1,0,1,0,Aldose 1-epimerase,NONE,Q96C23,NONE,NONE,"NONE
+"
+1vl7_A_cavity_1,5,2.646,0.5292,3,0,1,0,1,0,Alr5027 protein,NONE,Q8YMA7,Involved in FMN binding,NONE,"NONE
+"
+1win_A_cavity_1,5,2.637,0.5275,3,1,0,1,0,0,Flotillin-2,NONE,Q60634,NONE,NONE,"NONE
+"
+3boa_A_cavity_7,5,2.631,0.5261,3,0,1,1,0,0,Protein disulfide-isomerase,NONE,P17967,NONE,NONE,"NONE
+"
+1s99_B_cavity_2,5,2.614,0.5228,4,1,0,0,0,0,Putative HMP/thiamine-binding protein ykoF,NONE,O34911,NONE,NONE,"NONE
+"
+1wde_A_cavity_2,5,2.595,0.519,3,1,0,1,0,0,Probable diphthine synthase,NONE,Q9YDI2,NONE,NONE,"NONE
+"
+1nm3_A_cavity_2,5,2.588,0.5176,4,1,0,0,0,0,Hybrid peroxiredoxin hyPrx5,NONE,P44758,NONE,NONE,"NONE
+"
+1vac_A_cavity_1,5,2.586,0.5172,3,1,0,1,0,0,"H-2 class I histocompatibility antigen, K-B alpha chain",NONE,P01901,NONE,NONE,"NONE
+"
+3fqd_A_cavity_8,5,2.558,0.5117,3,1,0,0,1,0,5-3 exoribonuclease 2,NONE,P40848,NONE,NONE,"NONE
+"
+3g0z_A_cavity_1,5,2.514,0.5028,3,0,1,0,1,0,Poly(A) ribonuclease pop2,NONE,O74856,NONE,NONE,"NONE
+"
+1lrw_C_cavity_2,6,3.014,0.5023,2,2,0,2,0,0,Methanol dehydrogenase subunit 1,NONE,P12293,NONE,NONE,"NONE
+"
+1ddm_A_cavity_1,5,2.5,0.5001,4,1,0,0,0,0,Protein numb,NONE,P16554,NONE,NONE,"NONE
+"
+2c0p_A_cavity_2,5,2.5,0.5,3,1,0,1,0,0,Acetylcholinesterase,NONE,P21836,Lipid transport and metabolism,NONE,"NONE
+"
+1n46_B_cavity_1,6,2.994,0.499,3,0,1,0,2,0,Thyroid hormone receptor beta,NONE,P10828,"Nuclear hormone receptor that can act as a repressor or activator of transcription. High affinity receptor for thyroid hormones, including triiodothyronine and thyroxine.",NONE,"NONE
+"
+1puj_A_cavity_1,6,2.992,0.4987,3,1,1,0,1,0,Ribosome biogenesis GTPase A,NONE,O31743,NONE,NONE,"NONE
+"
+2xat_A_cavity_2,6,2.989,0.4982,4,0,1,1,0,0,Chloramphenicol acetyltransferase,NONE,P26841,Involved in acyltransferase activity,NONE,"Used in treatment of cholera, as it destroys the vibrios and decreases the diarrhea. It is effective against tetracycline-resistant vibrios. It is also used in eye drops or ointment to treat bacterial conjunctivitis.
+"
+2f8n_G_cavity_1,5,2.49,0.498,5,0,0,0,0,0,Histone H3.2,NONE,P84233,NONE,NONE,"NONE
+"
+3epm_B_cavity_2,6,2.985,0.4975,4,1,0,1,0,0,Thiamine biosynthesis protein thiC,NONE,Q9A6Q5,NONE,NONE,"NONE
+"
+1b0a_A_cavity_2,5,2.486,0.4972,5,0,0,0,0,0,Bifunctional protein folD,NONE,P24186,NONE,NONE,"NONE
+"
+2dvk_A_cavity_1,6,2.982,0.4971,4,1,1,0,0,0,UPF0130 protein APE_0816,NONE,Q9YDV3,NONE,NONE,"NONE
+"
+1qcb_F_cavity_1,6,2.982,0.4969,5,1,0,0,0,0,"Heat-labile enterotoxin IIB, B chain",NONE,P43529,NONE,NONE,"NONE
+"
+1si7_A_cavity_2,6,2.981,0.4969,4,1,1,0,0,0,tRNA pseudouridine synthase D,NONE,Q57261,NONE,NONE,"NONE
+"
+2ohv_A_cavity_2,6,2.981,0.4968,2,1,1,1,1,0,Glutamate racemase,NONE,Q9A1B7,NONE,NONE,"NONE
+"
+1rmd_A_cavity_1,6,2.98,0.4967,4,1,1,0,0,0,V(D)J recombination-activating protein 1,NONE,P15919,NONE,NONE,"NONE
+"
+1k44_E_cavity_1,6,2.979,0.4966,4,1,0,0,1,0,Nucleoside diphosphate kinase,NONE,P84284,NONE,NONE,"NONE
+"
+1hyg_B_cavity_1,6,2.978,0.4963,4,1,1,0,0,0,Malate dehydrogenase,NONE,Q60176,"Involved in oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",NONE,"NONE
+"
+1rpa_A_cavity_3,6,2.976,0.4961,3,1,1,1,0,0,Prostatic acid phosphatase,NONE,P20646,Involved in acid phosphatase activity,NONE,"NONE
+"
+3dm3_B_cavity_1,6,2.976,0.496,3,1,1,1,0,0,Replication factor A,NONE,Q58559,NONE,NONE,"NONE
+"
+1b49_C_cavity_1,6,2.973,0.4955,3,1,1,0,1,0,Deoxycytidylate 5-hydroxymethyltransferase,NONE,P08773,Involved in thymidylate synthase activity,NONE,"NONE
+"
+2i62_A_cavity_1,6,2.972,0.4954,3,0,1,2,0,0,Nicotinamide N-methyltransferase,NONE,O55239,NONE,NONE,"NONE
+"
+1wf8_A_cavity_1,6,2.97,0.4949,4,1,1,0,0,0,Neurabin-1,NONE,Q9ULJ8,NONE,NONE,"NONE
+"
+1bq4_C_cavity_1,6,2.967,0.4945,3,1,1,1,0,0,Phosphoglycerate mutase 1,NONE,P00950,Carbohydrate transport and metabolism,NONE,"NONE
+"
+1p7o_C_cavity_1,6,2.967,0.4945,4,1,1,0,0,0,"Phospholipase A2, acidic 2",NONE,Q45Z29,NONE,NONE,"NONE
+"
+1qlb_A_cavity_3,6,2.966,0.4943,4,1,1,0,0,0,Fumarate reductase flavoprotein subunit,NONE,P17412,NONE,NONE,"NONE
+"
+1xvv_A_cavity_3,5,2.471,0.4942,4,0,1,0,0,0,Crotonobetainyl-CoA:carnitine CoA-transferase,NONE,P31572,Energy production and conversion,NONE,"NONE
+"
+1ql6_A_cavity_3,6,2.965,0.4941,3,1,1,1,0,0,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle isoform",NONE,P00518,NONE,NONE,"NONE
+"
+1vf5_B_cavity_2,5,2.47,0.494,5,0,0,0,0,0,Cytochrome b6,NONE,P83791,Involved in oxidoreductase activity,NONE,"NONE
+"
+2f3i_A_cavity_1,6,2.962,0.4937,3,1,1,1,0,0,"DNA-directed RNA polymerases I, II, and III subunit RPABC3",NONE,P52434,NONE,NONE,"NONE
+"
+2h08_A_cavity_1,5,2.468,0.4935,5,0,0,0,0,0,Ribose-phosphate pyrophosphokinase 1,NONE,P60891,NONE,NONE,"NONE
+"
+1tnq_A_cavity_1,5,2.467,0.4935,5,0,0,0,0,0,"Troponin C, skeletal muscle",NONE,P02588,Involved in calcium ion binding,NONE,"NONE
+"
+2bty_A_cavity_1,5,2.467,0.4934,5,0,0,0,0,0,Acetylglutamate kinase,NONE,Q9X2A4,NONE,NONE,"NONE
+"
+3ibv_B_cavity_6,5,2.467,0.4934,5,0,0,0,0,0,Exportin-T,NONE,O94258,NONE,NONE,"NONE
+"
+1wru_A_cavity_3,6,2.96,0.4933,4,0,1,1,0,0,Baseplate protein,NONE,P08558,NONE,NONE,"NONE
+"
+1zag_D_cavity_1,6,2.959,0.4932,4,1,0,1,0,0,Zinc-alpha-2-glycoprotein,LIPID MOBILIZATION FACTOR,ZA2G_HUMAN,Stimulates lipid degradation in adipocytes and causes the extensive fat losses associated with some advanced cancers. May bind polyunsaturated fatty acids.,NONE,"NONE
+"
+3g9k_S_cavity_1,5,2.466,0.4931,5,0,0,0,0,0,Capsule biosynthesis protein capD,NONE,Q51693,NONE,NONE,"NONE
+"
+1fi6_A_cavity_2,5,2.465,0.4929,5,0,0,0,0,0,RalBP1-associated Eps domain-containing protein 1,NONE,O54916,NONE,NONE,"NONE
+"
+2jpe_A_cavity_1,6,2.955,0.4925,5,1,0,0,0,0,Nuclear inhibitor of protein phosphatase 1,NONE,Q8R3G1,NONE,NONE,"NONE
+"
+2ch5_A_cavity_2,5,2.463,0.4925,4,0,1,0,0,0,N-acetyl-D-glucosamine kinase,NONE,Q9UJ70,NONE,NONE,"NONE
+"
+1r6u_A_cavity_4,7,3.444,0.492,4,1,1,0,1,0,"Tryptophanyl-tRNA synthetase, cytoplasmic",NONE,P23381,"Translation, ribosomal structure and biogenesis",NONE,"Tryptophan may be useful in increasing serotonin production, promoting healthy sleep, managing depression by enhancing mental and emotional well-being, managing pain tolerance, and managing weight.
+"
+2ce4_A_cavity_1,6,2.952,0.492,3,1,1,1,0,0,Superoxide dismutase [Mn],NONE,Q9RUV2,NONE,NONE,"NONE
+"
+1jv1_A_cavity_3,6,2.95,0.4917,3,1,1,1,0,0,UDP-N-acetylhexosamine pyrophosphorylase,NONE,Q16222,Involved in nucleotidyltransferase activity,NONE,"NONE
+"
+1ezr_B_cavity_2,5,2.458,0.4917,4,0,1,0,0,0,Inosine-uridine preferring nucleoside hydrolase,NONE,P83851,NONE,NONE,"NONE
+"
+1q1l_C_cavity_3,8,3.933,0.4916,5,1,1,0,1,0,Chorismate synthase,NONE,O66493,NONE,NONE,"NONE
+"
+1bcp_B_cavity_2,6,2.949,0.4914,4,1,1,0,0,0,Pertussis toxin subunit 1,NONE,P04977,NONE,NONE,"NONE
+"
+1yqo_A_cavity_3,6,2.948,0.4913,3,1,1,0,1,0,Bifunctional P-450/NADPH-P450 reductase,NONE,P14779,Inorganic ion transport and metabolism,NONE,"NONE
+"
+2os6_A_cavity_1,5,2.456,0.4913,5,0,0,0,0,0,Rho guanine nucleotide exchange factor 12,CELL ADHESION,ARHGC_HUMAN,May play a role in the regulation of RhoA GTPase by guanine nucleotide-binding alpha-12 (GNA12) and alpha-13 (GNA13). Acts as guanine nucleotide exchange factor (GEF) for RhoA GTPase and may act as GTPase-activating protein (GAP) for GNA12 and GNA13.,A chromosomal aberration involving ARHGEF12 may be a cause of acute leukemia. Translocation t(11;11)(q23;23) with MLL.,"NONE
+"
+2gb5_B_cavity_2,6,2.947,0.4912,3,2,1,0,0,0,NADH pyrophosphatase,NONE,P32664,Involved in hydrolase activity,NONE,"NONE
+"
+1vz7_D_cavity_1,6,2.945,0.4909,3,1,1,1,0,0,Glutamate N-acetyltransferase 2,NONE,Q53940,NONE,NONE,"NONE
+"
+1iqc_C_cavity_2,6,2.943,0.4904,4,1,1,0,0,0,Cytochrome c551 peroxidase,NONE,P55929,Involved in iron ion binding,NONE,"NONE
+"
+1cx1_A_cavity_1,6,2.938,0.4897,3,1,1,0,1,0,Endoglucanase C,NONE,P14090,NONE,NONE,"NONE
+"
+1lwd_A_cavity_4,6,2.938,0.4897,3,1,1,0,1,0,"Isocitrate dehydrogenase [NADP], mitochondrial",NONE,P33198,Energy production and conversion,NONE,"NONE
+"
+2qby_A_cavity_4,5,2.449,0.4897,5,0,0,0,0,0,Cell division control protein 6 homolog 1,NONE,Q980N4,NONE,NONE,"NONE
+"
+1kvo_D_cavity_1,5,2.448,0.4896,4,1,0,0,0,0,"Phospholipase A2, membrane associated",NONE,P14555,Involved in phospholipase A2 activity,NONE,"NONE
+"
+1na6_A_cavity_3,5,2.448,0.4895,5,0,0,0,0,0,Type-2 restriction enzyme EcoRII,NONE,P14633,NONE,NONE,"NONE
+"
+1tz7_A_cavity_5,6,2.936,0.4893,3,1,1,1,0,0,4-alpha-glucanotransferase,NONE,O66937,NONE,NONE,"NONE
+"
+1pvn_B_cavity_4,6,2.935,0.4892,4,1,1,0,0,0,Inosine-5-monophosphate dehydrogenase,NONE,P50097,Nucleotide transport and metabolism,NONE,"For the prophylaxis of organ rejection in patients receiving allogeneic renal transplants, administered in combination with cyclosporine and corticosteroids.
+"
+2fbw_Q_cavity_1,5,2.446,0.4891,5,0,0,0,0,0,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",NONE,Q9YHT1,NONE,NONE,"NONE
+"
+2qq8_A_cavity_1,6,2.934,0.489,4,1,1,0,0,0,TBC1 domain family member 14,NONE,Q9P2M4,NONE,NONE,"NONE
+"
+3c72_B_cavity_3,6,2.934,0.489,3,1,1,1,0,0,Geranylgeranyl transferase type-2 subunit alpha,NONE,Q08602,NONE,NONE,"NONE
+"
+1g31_E_cavity_1,5,2.445,0.4889,4,0,1,0,0,0,Capsid assembly protein Gp31,NONE,P17313,NONE,NONE,"NONE
+"
+1xjs_A_cavity_2,6,2.933,0.4888,4,1,1,0,0,0,NifU-like protein,NONE,O32163,NONE,NONE,"NONE
+"
+1v1f_A_cavity_1,6,2.932,0.4887,5,1,0,0,0,0,Calcineurin B-like protein 4,NONE,O81223,Involved in calcium ion binding,NONE,"NONE
+"
+1qe0_A_cavity_3,6,2.932,0.4887,3,1,1,1,0,0,Histidyl-tRNA synthetase,NONE,P60911,NONE,NONE,"NONE
+"
+3crw_1_cavity_2,5,2.442,0.4885,4,0,1,0,0,0,ATP-dependent DNA helicase Saci_0192,NONE,Q4JC68,NONE,NONE,"NONE
+"
+2b61_A_cavity_3,6,2.93,0.4884,2,2,1,1,0,0,Homoserine O-acetyltransferase,NONE,P45131,NONE,NONE,"NONE
+"
+2nmp_C_cavity_1,6,2.93,0.4883,4,1,1,0,0,0,Cystathionine gamma-lyase,NONE,P32929,NONE,NONE,"NONE
+"
+3bz6_A_cavity_1,5,2.441,0.4882,3,0,1,1,0,0,UPF0502 protein PSPTO_2686,NONE,Q882E2,NONE,NONE,"NONE
+"
+1lnl_C_cavity_1,6,2.929,0.4881,3,1,1,0,1,0,Hemocyanin type 2 unit e,NONE,P83040,NONE,NONE,"NONE
+"
+2aff_A_cavity_1,6,2.927,0.4878,4,1,1,0,0,0,Antigen KI-67,NONE,P46013,NONE,NONE,"NONE
+"
+1s70_A_cavity_2,6,2.925,0.4876,2,2,1,0,1,0,Serine/threonine-protein phosphatase PP1-beta catalytic subunit,NONE,P62140,NONE,NONE,"NONE
+"
+1pkx_A_cavity_2,5,2.438,0.4876,4,0,1,0,0,0,Bifunctional purine biosynthesis protein PURH,"TRANSFERASE, HYDROLASE",PUR9_HUMAN,NONE,"Defects in ATIC are the cause of AICA-ribosuria [MIM:608688]; also known as AICA-ribosiduria. AICA-ribosuria is a neurologically devastating inborn error of purine biosynthesis. AICA-ribosuria patients excrete massive amounts of AICA-riboside in the urine and accumulate AICA-ribotide and its derivatives in erythrocytes and fibroblasts. AICA-ribosuria causes profound mental retardation, epilepsy, dysmorphic features and congenital blindness.","NONE
+"
+1uyq_A_cavity_3,6,2.925,0.4875,3,1,1,0,1,0,Beta-glucosidase A,NONE,P22073,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2epi_A_cavity_1,6,2.925,0.4874,4,1,1,0,0,0,UPF0045 protein MJ1052,NONE,Q58452,NONE,NONE,"NONE
+"
+2gj3_B_cavity_1,5,2.437,0.4874,5,0,0,0,0,0,Nitrogen fixation regulatory protein,NONE,P30663,NONE,NONE,"NONE
+"
+3c5k_A_cavity_1,7,3.409,0.4871,4,1,1,1,0,0,Histone deacetylase 6,HYDROLASE,HDAC6_HUMAN,"Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4). Histone deacetylation gives a tag for epigenetic repression and plays an important role in transcriptional regulation, cell cycle progr",NONE,"NONE
+"
+1vyh_F_cavity_1,6,2.923,0.4871,2,2,1,0,1,0,Platelet-activating factor acetylhydrolase IB subunit beta,HYDROLASE,PA1B2_HUMAN,Inactivates PAF by removing the acetyl group at the sn-2 position. This is a catalytic subunit.,NONE,"NONE
+"
+1aur_B_cavity_1,5,2.436,0.4871,4,0,1,0,0,0,Carboxylesterase 2,NONE,Q53547,Hydrolyzes carboxylic ester bonds with relatively broad substrate specificity,NONE,"NONE
+"
+1odh_A_cavity_1,5,2.435,0.4869,4,1,0,0,0,0,Chorion-specific transcription factor GCMa,NONE,P70348,NONE,NONE,"NONE
+"
+2es0_A_cavity_1,5,2.434,0.4867,5,0,0,0,0,0,Regulator of G-protein signaling 6,SIGNALING PROTEIN,RGS6_HUMAN,Inhibits signal transduction by increasing the GTPase activity of G protein alpha subunits thereby driving them into their inactive GDP-bound form. Activity on G(o)-alpha is specifically enhanced by the RGS6/Gbeta5 dimer.,NONE,"NONE
+"
+3df0_A_cavity_7,5,2.434,0.4867,5,0,0,0,0,0,Calpain-2 catalytic subunit,NONE,Q07009,NONE,NONE,"NONE
+"
+1txk_B_cavity_6,6,2.917,0.4862,2,1,1,2,0,0,Glucans biosynthesis protein G,NONE,P33136,NONE,NONE,"NONE
+"
+1tiy_B_cavity_1,6,2.915,0.4858,4,1,1,0,0,0,Guanine deaminase,NONE,O34598,Involved in zinc ion binding,NONE,"NONE
+"
+2csw_A_cavity_1,6,2.914,0.4857,3,2,1,0,0,0,E3 ubiquitin-protein ligase RNF8,NONE,O76064,NONE,NONE,"NONE
+"
+1yiv_A_cavity_1,8,3.885,0.4856,4,2,0,2,0,0,Myelin P2 protein,NONE,P0C6G6,NONE,NONE,"NONE
+"
+3bdf_B_cavity_1,6,2.914,0.4856,2,1,1,0,2,0,Alkaline phosphatase,NONE,P00634,Inorganic ion transport and metabolism,NONE,"NONE
+"
+3ewb_X_cavity_3,6,2.913,0.4854,3,1,1,1,0,0,2-isopropylmalate synthase,NONE,Q71Y35,NONE,NONE,"NONE
+"
+3csk_A_cavity_4,6,2.911,0.4852,1,2,1,2,0,0,Probable dipeptidyl-peptidase 3,NONE,Q08225,NONE,NONE,"NONE
+"
+1xge_A_cavity_2,6,2.911,0.4851,3,1,1,1,0,0,Dihydroorotase,NONE,P05020,Nucleotide transport and metabolism,NONE,"NONE
+"
+3e7o_B_cavity_3,6,2.91,0.485,3,1,1,0,1,0,Mitogen-activated protein kinase 9,TRANSFERASE,MK09_HUMAN,"Responds to activation by environmental stress and pro- inflammatory cytokines by phosphorylating a number of transcription factors, primarily components of AP-1 such as c-Jun and ATF2 and thus regulates AP-1 transcriptional activity. In T- cells, JNK1 an;JNK2 isoforms display different binding patterns: alpha- 1 and alpha-2 preferentially bind to c-Jun, whereas beta-1 and beta-2 bind to ATF2. However, there is no correlation between binding and phosphorylation, which is achieved at about the same efficien",NONE,"NONE
+"
+2fg5_A_cavity_1,6,2.91,0.485,2,2,1,1,0,0,Ras-related protein Rab-31,SIGNALING PROTEIN,RAB31_HUMAN,NONE,NONE,"NONE
+"
+2vr2_A_cavity_1,6,2.909,0.4848,2,1,1,1,1,0,Dihydropyrimidinase,NONE,Q14117,NONE,NONE,"NONE
+"
+1xwr_D_cavity_1,5,2.423,0.4845,5,0,0,0,0,0,Regulatory protein CII,NONE,P03042,NONE,NONE,"NONE
+"
+2tpr_B_cavity_3,5,2.418,0.4837,5,0,0,0,0,0,Trypanothione reductase,NONE,P39040,Energy production and conversion,NONE,"NONE
+"
+1f5z_A_cavity_2,6,2.902,0.4836,4,2,0,0,0,0,N-acetylneuraminate lyase,NONE,P44539,NONE,NONE,"NONE
+"
+2k3r_A_cavity_1,6,2.901,0.4835,4,1,1,0,0,0,Ribonuclease P protein component 4,NONE,Q8U0H6,NONE,NONE,"NONE
+"
+1ws1_A_cavity_1,6,2.896,0.4827,2,1,1,1,1,0,Peptide deformylase 1,NONE,Q819U0,NONE,NONE,"NONE
+"
+1k8d_A_cavity_3,6,2.896,0.4826,3,1,1,1,0,0,"H-2 class I histocompatibility antigen, Q7 alpha chain",NONE,P14429,NONE,NONE,"NONE
+"
+2z3x_A_cavity_1,6,2.895,0.4825,5,1,0,0,0,0,"Small, acid-soluble spore protein C",NONE,P02958,NONE,NONE,"NONE
+"
+1zte_C_cavity_1,5,2.412,0.4825,5,0,0,0,0,0,"Superoxide dismutase [Mn], mitochondrial",NONE,P04179,NONE,NONE,"NONE
+"
+3b6x_B_cavity_1,5,2.412,0.4824,5,0,0,0,0,0,General odorant-binding protein lush,NONE,O02372,Involved in odorant binding,NONE,"NONE
+"
+1r8u_A_cavity_1,5,2.411,0.4821,5,0,0,0,0,0,Cbp/p300-interacting transactivator 2,TRANSCRIPTION/TRANSCRIPTION ACTIVATOR,CITE2_HUMAN,Interferes with the binding of transcription factors HIF-1a and STAT2 to p300/CBP.,NONE,"NONE
+"
+2z7x_B_cavity_1,6,2.892,0.482,4,2,0,0,0,0,Toll-like receptor 1,IMMUNE SYSTEM,TLR1_HUMAN,"Participates in the innate immune response to microbial agents. Cooperates with TLR2 to mediate the innate immune response to bacterial lipoproteins or lipopeptides. Acts via MYD88 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the in",NONE,"NONE
+"
+1mg6_A_cavity_1,5,2.409,0.4817,4,1,0,0,0,0,Phospholipase A2 homolog acutohaemolysin,NONE,O57385,Involved in phospholipase A2 activity,NONE,"NONE
+"
+1wxr_A_cavity_2,8,3.853,0.4816,4,1,1,2,0,0,Hemoglobin-binding protease hbp,NONE,O88093,NONE,NONE,"NONE
+"
+1t90_D_cavity_1,6,2.889,0.4815,3,1,0,0,2,0,Methylmalonate semialdehyde dehydrogenase [acylating],NONE,P42412,NONE,NONE,"NONE
+"
+1xes_A_cavity_1,5,2.407,0.4815,5,0,0,0,0,0,Dihydropinosylvin synthase,NONE,Q02323,NONE,NONE,"NONE
+"
+1n6b_A_cavity_1,5,2.406,0.4811,5,0,0,0,0,0,Cytochrome P450 2C5,NONE,P00179,Involved in monooxygenase activity,NONE,"NONE
+"
+1nsh_B_cavity_1,5,2.405,0.4811,5,0,0,0,0,0,Protein S100-A11,NONE,P24480,NONE,NONE,"NONE
+"
+1kmh_B_cavity_1,6,2.885,0.4809,4,1,1,0,0,0,"ATP synthase subunit alpha, chloroplastic",NONE,P06450,NONE,NONE,"NONE
+"
+1vpx_T_cavity_1,6,2.885,0.4809,2,2,1,1,0,0,Transaldolase,NONE,Q9WYD1,NONE,NONE,"NONE
+"
+1fcd_B_cavity_2,6,2.88,0.4801,4,1,1,0,0,0,Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain,NONE,Q06530,NONE,NONE,"NONE
+"
+1uh6_A_cavity_1,6,2.879,0.4798,3,1,1,0,1,0,Ubiquitin-like protein 5,NONE,Q9EPV8,NONE,NONE,"NONE
+"
+2ozb_B_cavity_2,6,2.879,0.4798,3,1,1,0,1,0,NHP2-like protein 1,NONE,P55769,NONE,NONE,"NONE
+"
+1woc_C_cavity_2,6,2.878,0.4797,3,2,0,0,1,0,Primosomal replication protein n,NONE,P07013,NONE,NONE,"NONE
+"
+3cb5_A_cavity_5,6,2.877,0.4796,4,1,1,0,0,0,FACT complex subunit spt16,NONE,O94267,NONE,NONE,"NONE
+"
+1fiz_A_cavity_4,6,2.877,0.4794,3,2,0,1,0,0,Acrosin,NONE,P08001,NONE,NONE,"NONE
+"
+1ai3_A_cavity_4,6,2.869,0.4782,3,1,1,0,1,0,Isocitrate dehydrogenase [NADP],NONE,P08200,Energy production and conversion,NONE,"NONE
+"
+3eap_D_cavity_1,5,2.389,0.4777,5,0,0,0,0,0,Rho GTPase-activating protein 11A,NONE,Q6P4F7,NONE,NONE,"NONE
+"
+2e9q_A_cavity_2,5,2.387,0.4774,5,0,0,0,0,0,11S globulin subunit beta,NONE,P13744,NONE,NONE,"NONE
+"
+3d47_B_cavity_3,5,2.386,0.4772,4,1,0,0,0,0,L-rhamnonate dehydratase,NONE,Q8ZNF9,NONE,NONE,"NONE
+"
+1qgk_A_cavity_7,6,2.858,0.4764,4,1,1,0,0,0,Importin subunit beta-1,NONE,Q14974,NONE,NONE,"NONE
+"
+2f2f_C_cavity_1,6,2.857,0.4762,4,1,1,0,0,0,Cytolethal distending toxin subunit A,NONE,O87120,NONE,NONE,"NONE
+"
+2gzo_A_cavity_3,6,2.857,0.4761,4,1,1,0,0,0,UPF0301 protein SO_3346,NONE,Q8EBZ9,NONE,NONE,"NONE
+"
+3glb_C_cavity_2,7,3.33,0.4758,4,1,1,1,0,0,HTH-type transcriptional regulator catM,NONE,P07774,NONE,NONE,"NONE
+"
+1wex_A_cavity_1,5,2.378,0.4755,4,1,0,0,0,0,Heterogeneous nuclear ribonucleoprotein L-like,NONE,Q921F4,NONE,NONE,"NONE
+"
+3e7w_A_cavity_3,6,2.851,0.4752,4,1,1,0,0,0,D-alanine--poly(phosphoribitol) ligase subunit 1,NONE,P39581,NONE,NONE,"NONE
+"
+1ahs_C_cavity_1,6,2.851,0.4752,3,2,1,0,0,0,Core protein VP7,NONE,P36325,NONE,NONE,"NONE
+"
+2vlg_C_cavity_1,6,2.85,0.475,4,0,1,0,1,0,Sporulation kinase A,NONE,P16497,NONE,NONE,"NONE
+"
+1bsl_B_cavity_1,5,2.372,0.4744,4,0,0,0,1,0,Alkanal monooxygenase beta chain,NONE,P07739,NONE,NONE,"NONE
+"
+2qkd_A_cavity_7,6,2.846,0.4743,4,2,0,0,0,0,Zinc finger protein ZPR1,NONE,Q62384,NONE,NONE,"NONE
+"
+1ovq_A_cavity_2,6,2.845,0.4741,4,2,0,0,0,0,Putative Holliday junction resolvase,NONE,P0A8I1,NONE,NONE,"NONE
+"
+1jey_B_cavity_2,6,2.845,0.4741,2,1,1,1,1,0,ATP-dependent DNA helicase 2 subunit 1,NONE,P12956,NONE,NONE,"NONE
+"
+1j3x_A_cavity_1,6,2.844,0.474,3,1,1,1,0,0,High mobility group protein B2,NONE,P17741,NONE,NONE,"NONE
+"
+1h7y_A_cavity_3,6,2.843,0.4738,3,1,1,1,0,0,Translationally-controlled tumor protein homolog,NONE,Q10344,NONE,NONE,"NONE
+"
+3euh_E_cavity_2,6,2.842,0.4736,4,1,1,0,0,0,Chromosome partition protein mukF,NONE,P60293,NONE,NONE,"NONE
+"
+3c7g_A_cavity_3,6,2.839,0.4732,4,1,0,1,0,0,Arabinoxylan arabinofuranohydrolase,NONE,Q45071,NONE,NONE,"NONE
+"
+2p1q_B_cavity_2,5,2.366,0.4731,4,1,0,0,0,0,SKP1-like protein 1A,NONE,Q39255,NONE,NONE,"NONE
+"
+1omw_A_cavity_8,6,2.835,0.4725,4,1,1,0,0,0,Beta-adrenergic receptor kinase 1,NONE,P25098,Involved in G-protein coupled receptor kinase activity,NONE,"For nutritional supplementation, also for treating dietary shortage or imbalance
+"
+1z9f_A_cavity_1,6,2.835,0.4725,3,1,1,1,0,0,Single-stranded DNA-binding protein,NONE,Q9WZ73,NONE,NONE,"NONE
+"
+2rm4_A_cavity_3,5,2.362,0.4723,4,1,0,0,0,0,Enhancer of mRNA-decapping protein 3,NONE,Q9VVI2,NONE,NONE,"NONE
+"
+1lbm_A_cavity_1,5,2.358,0.4717,4,1,0,0,0,0,N-(5-phosphoribosyl)anthranilate isomerase,NONE,Q56320,Involved in phosphoribosylanthranilate isomerase activity,NONE,"NONE
+"
+3gh8_H_cavity_3,5,2.358,0.4716,4,1,0,0,0,0,Iodotyrosine dehalogenase 1,NONE,Q9DCX8,NONE,NONE,"NONE
+"
+2ql6_E_cavity_1,8,3.768,0.471,4,1,1,1,1,0,Nicotinamide riboside kinase 1,"SIGNALING PROTEIN,TRANSFERASE",NRK1_HUMAN,Catalyzes the phosphorylation of nicotinamide riboside (NR) and nicotinic acid riboside (NaR) to form nicotinamide mononucleotide (NMN) and nicotinic acid mononucleotide (NaMN). The enzyme also phosphorylates the antitumor drugs tiazofurin and 3- deazagua,NONE,"NONE
+"
+1fsu_A_cavity_1,6,2.826,0.471,2,1,1,1,1,0,Arylsulfatase B,HYDROLASE,ARSB_HUMAN,NONE,"Defects in ARSB are the cause of mucopolysaccharidosis type 6 (MPS6) [MIM:253200]; also known as Maroteaux-Lamy syndrome. MPS6 is an autosomal recessive lysosomal storage disease characterized by intracellular accumulation of dermatan sulfate. Clinical features can include abnormal growth, short stature, stiff joints, skeletal malformations, corneal clouding, hepatosplenomegaly, and cardiac abnormalities. A wide variation in clinical severity is observed.;Arylsulfatase B activity is defective in multiple sulfatase deficiency (MSD) [MIM:272200]. MSD is a disorder characterized by decreased activity of all known sulfatases. MSD is due to defects in SUMF1 resulting in the lack of post- translational modification of a highly conserved cysteine into 3- oxoalanine. It combines features of individual sulfatase deficiencies such as metachromatic leukodystrophy, mucopolysaccharidosis, chondrodysplasia punctata, hydrocephalus, ichthyosis, neurologic deterioration and developmental delay.","NONE
+"
+1srp_A_cavity_2,6,2.825,0.4709,4,1,1,0,0,0,Serralysin,NONE,P07268,NONE,NONE,"NONE
+"
+2d8k_A_cavity_1,6,2.821,0.4702,2,1,1,2,0,0,Synaptotagmin-7,NONE,O43581,NONE,NONE,"NONE
+"
+2o3q_A_cavity_3,6,2.816,0.4693,2,1,1,1,1,0,ADP-ribosyl cyclase 1,HYDROLASE,CD38_HUMAN,"Synthesizes cyclic ADP-ribose, a second messenger for glucose-induced insulin secretion. Also has cADPr hydrolase activity. Also moonlights as a receptor in cells of the immune system.",NONE,"NONE
+"
+1cok_A_cavity_1,5,2.347,0.4693,4,1,0,0,0,0,Tumor protein p73,GENE REGULATION,P73_HUMAN,"Participates in the apoptotic response to DNA damage. When overproduced, activates transcription from p53-responsive promoters and induces apoptosis. May be a tumor suppressor protein.","Maps to a chromosome region frequently mutated in diverse cell lines of human cancer. Appears not to be frequently mutated in human cancers, in contrast to p53. Hemizygosity is observed in neuroblastoma and oligodendroglioma.","NONE
+"
+1l3g_A_cavity_1,6,2.813,0.4688,3,2,0,0,1,0,Transcription factor MBP1,NONE,P39678,NONE,NONE,"NONE
+"
+1imh_D_cavity_1,6,2.811,0.4685,4,1,1,0,0,0,Nuclear factor of activated T-cells 5,TRANSCRIPTION/DNA,NFAT5_HUMAN,Plays a role in the inducible expression of genes. Regulates hypertonicity-induced cellular accumulation of osmolytes.,NONE,"NONE
+"
+1zpu_E_cavity_2,6,2.808,0.468,3,1,1,1,0,0,Iron transport multicopper oxidase FET3,NONE,P38993,NONE,NONE,"NONE
+"
+1veg_A_cavity_2,6,2.808,0.468,3,2,1,0,0,0,NEDD8 ultimate buster 1,NONE,P54729,NONE,NONE,"NONE
+"
+3cdk_B_cavity_2,6,2.806,0.4677,4,1,0,1,0,0,Probable succinyl-Co,NONE,P42315,NONE,NONE,"NONE
+"
+1gph_4_cavity_4,6,2.8,0.4667,3,1,1,1,0,0,Amidophosphoribosyltransferase,NONE,P00497,Nucleotide transport and metabolism,NONE,"NONE
+"
+1sgm_B_cavity_1,6,2.798,0.4664,4,1,0,1,0,0,Uncharacterized HTH-type transcriptional regulator yxaF,NONE,P42105,NONE,NONE,"NONE
+"
+1b4u_B_cavity_1,6,2.798,0.4663,4,0,1,0,1,0,"Protocatechuate 4,5-dioxygenase alpha chain",NONE,P22635,NONE,NONE,"NONE
+"
+2ols_A_cavity_2,6,2.795,0.4659,5,1,0,0,0,0,Phosphoenolpyruvate synthase,NONE,Q9K0I2,NONE,NONE,"NONE
+"
+1u5h_A_cavity_1,6,2.793,0.4656,3,1,1,1,0,0,Citrate lyase beta subunit-like protein,NONE,O06162,Involved in citrate (pro-3S)-lyase activity,NONE,"NONE
+"
+1tno_J_cavity_3,6,2.791,0.4651,4,1,1,0,0,0,Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha,NONE,Q04631,NONE,NONE,"NONE
+"
+1c8v_A_cavity_3,6,2.781,0.4635,4,0,1,1,0,0,Tryptophan synthase alpha chain,NONE,P00929,NONE,NONE,"NONE
+"
+1hyh_C_cavity_1,6,2.781,0.4634,3,2,0,0,1,0,L-2-hydroxyisocaproate dehydrogenase,NONE,P14295,"Involved in oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",NONE,"NONE
+"
+1aun_A_cavity_1,6,2.777,0.4628,2,1,1,2,0,0,Osmotin-like protein,NONE,P25871,NONE,NONE,"NONE
+"
+2f9d_B_cavity_2,6,2.776,0.4626,4,1,1,0,0,0,Pre-mRNA branch site protein p14,NONE,Q9Y3B4,NONE,NONE,"NONE
+"
+1rso_A_cavity_1,6,2.773,0.4622,5,1,0,0,0,0,Disks large homolog 1,NONE,Q62696,NONE,NONE,"NONE
+"
+2d2m_A_cavity_1,6,2.771,0.4619,4,0,1,0,1,0,Extracellular giant hemoglobin major globin subunit A1,NONE,Q7M419,NONE,NONE,"NONE
+"
+1a5z_A_cavity_2,6,2.771,0.4618,3,0,1,2,0,0,L-lactate dehydrogenase,NONE,P16115,Energy production and conversion,NONE,"NONE
+"
+1xs8_A_cavity_1,6,2.77,0.4617,5,1,0,0,0,0,Probable Fe(2+)-trafficking protein,NONE,P67617,NONE,NONE,"NONE
+"
+2ay0_E_cavity_1,5,2.307,0.4615,5,0,0,0,0,0,Bifunctional protein putA,NONE,P09546,Energy production and conversion,NONE,"NONE
+"
+1tg6_A_cavity_2,6,2.758,0.4597,4,1,0,0,1,0,"Putative ATP-dependent Clp protease proteolytic subunit, mitochondrial",HYDROLASE,CLPP_HUMAN,Clp cleaves peptides in various proteins in a process that requires ATP hydrolysis. Clp may be responsible for a fairly general and central housekeeping function rather than for the degradation of specific substrates.,NONE,"NONE
+"
+1iq3_A_cavity_1,5,2.298,0.4596,5,0,0,0,0,0,RalBP1-associated Eps domain-containing protein 2,NONE,Q8NFH8,NONE,NONE,"NONE
+"
+1jk0_B_cavity_1,5,2.298,0.4596,3,0,1,1,0,0,Ribonucleoside-diphosphate reductase small chain 1,NONE,P09938,NONE,NONE,"NONE
+"
+2ex8_A_cavity_3,6,2.756,0.4593,3,2,0,0,1,0,D-alanyl-D-alanine carboxypeptidase dacB,NONE,P24228,NONE,NONE,"NONE
+"
+3grh_A_cavity_1,6,2.752,0.4586,3,2,1,0,0,0,Putative acyl-CoA thioester hydrolase ybhC,NONE,P46130,NONE,NONE,"NONE
+"
+2zme_A_cavity_1,6,2.751,0.4585,5,1,0,0,0,0,Vacuolar-sorting protein SNF8,NONE,Q96H20,NONE,NONE,"NONE
+"
+2oca_A_cavity_4,6,2.749,0.4582,3,1,1,0,1,0,ATP-dependent DNA helicase uvsW,NONE,P20703,NONE,NONE,"NONE
+"
+2i2l_A_cavity_2,6,2.746,0.4576,3,2,1,0,0,0,SPBc2 prophage-derived uncharacterized protein yopX,NONE,O34401,NONE,NONE,"NONE
+"
+1j55_A_cavity_2,5,2.285,0.4571,4,0,1,0,0,0,Protein S100-P,METAL BINDING PROTEIN,S100P_HUMAN,NONE,NONE,"NONE
+"
+1mg5_B_cavity_1,8,3.653,0.4567,5,1,1,1,0,0,Alcohol dehydrogenase,NONE,P00334,Involved in alcohol dehydrogenase activity,NONE,"NONE
+"
+1dml_E_cavity_2,6,2.735,0.4559,4,1,1,0,0,0,DNA polymerase processivity factor,NONE,P10226,NONE,NONE,"NONE
+"
+2ija_A_cavity_1,6,2.728,0.4546,4,1,1,0,0,0,Arylamine N-acetyltransferase 1,TRANSFERASE,ARY1_HUMAN,Participates in the detoxification of a plethora of hydrazine and arylamine drugs. Catalyzes the N- or O-acetylation of various arylamine and heterocyclic amine substrates and is able to bioactivate several known carcinogens.,NONE,"NONE
+"
+2gp6_B_cavity_1,5,2.269,0.4539,5,0,0,0,0,0,3-oxoacyl-[acyl-carrier-protein] synthase 2,NONE,P63456,NONE,NONE,"NONE
+"
+2qv6_C_cavity_1,6,2.723,0.4538,5,1,0,0,0,0,GTP cyclohydrolase III,NONE,Q57609,NONE,NONE,"NONE
+"
+1wh0_A_cavity_1,6,2.715,0.4525,4,0,1,0,1,0,Ubiquitin carboxyl-terminal hydrolase 19,HYDROLASE,UBP19_HUMAN,Involved in the ubiquitin-dependent proteolytic pathway in conjunction with the 26S proteasome (By similarity).,NONE,"NONE
+"
+1ya0_B_cavity_2,7,3.162,0.4517,5,1,1,0,0,0,Protein SMG7,NONE,Q92540,NONE,NONE,"NONE
+"
+2vwt_A_cavity_1,9,4.063,0.4514,6,2,0,0,1,0,2-keto-3-deoxy-L-rhamnonate aldolase,NONE,P76469,NONE,NONE,"NONE
+"
+1idj_B_cavity_1,6,2.707,0.4511,3,2,1,0,0,0,Pectin lyase A,NONE,Q01172,NONE,NONE,"NONE
+"
+2gux_A_cavity_2,6,2.703,0.4506,2,3,1,0,0,0,Griffithsin,NONE,P84801,NONE,NONE,"NONE
+"
+1uld_D_cavity_1,6,2.697,0.4494,4,1,1,0,0,0,Galectin-2,NONE,Q9P4R8,Involved in sugar binding,NONE,"NONE
+"
+1d5y_D_cavity_1,8,3.59,0.4487,4,2,0,1,1,0,Right origin-binding protein,NONE,P0ACI0,NONE,NONE,"NONE
+"
+2oyn_A_cavity_2,7,3.133,0.4475,4,1,1,1,0,0,Riboflavin kinase,NONE,Q60365,NONE,NONE,"NONE
+"
+3cb4_F_cavity_4,8,3.572,0.4465,6,1,1,0,0,0,GTP-binding protein lepA,NONE,P60785,NONE,NONE,"NONE
+"
+1tv5_A_cavity_1,6,2.674,0.4457,4,2,0,0,0,0,"Dihydroorotate dehydrogenase homolog, mitochondrial",OXIDOREDUCTASE,PYRD_PLAF7,NONE,NONE,"NONE
+"
+1ukf_A_cavity_1,6,2.662,0.4437,4,1,0,0,1,0,Cysteine protease avirulence protein avrPphB,NONE,Q52430,NONE,NONE,"NONE
+"
+2if2_C_cavity_2,6,2.66,0.4433,5,1,0,0,0,0,Dephospho-CoA kinase,NONE,O67792,NONE,NONE,"NONE
+"
+1z56_C_cavity_4,6,2.655,0.4425,3,1,1,1,0,0,Ligase-interacting factor 1,NONE,P53150,NONE,NONE,"NONE
+"
+1d5b_B_cavity_1,6,2.65,0.4417,5,1,0,0,0,0,Ig kappa chain C region,NONE,P01834,NONE,NONE,"NONE
+"
+1d7c_A_cavity_1,6,2.648,0.4413,4,2,0,0,0,0,Cellobiose dehydrogenase,NONE,Q01738,Amino acid transport and metabolism,NONE,"NONE
+"
+2q0j_A_cavity_1,6,2.647,0.4412,4,1,1,0,0,0,Uncharacterized protein PA1000,NONE,P20581,NONE,NONE,"NONE
+"
+1lwu_E_cavity_2,6,2.645,0.4409,3,1,1,1,0,0,Fibrinogen alpha-1 chain,NONE,P02674,NONE,NONE,"NONE
+"
+1hm9_A_cavity_4,5,2.201,0.4402,3,1,0,1,0,0,Bifunctional protein glmU,NONE,Q97R46,Involved in UDP-N-acetylglucosamine diphosphorylase activity,NONE,"NONE
+"
+3brp_A_cavity_1,7,3.076,0.4394,4,1,1,1,0,0,C-phycocyanin alpha chain,NONE,P00306,NONE,NONE,"NONE
+"
+2nn6_F_cavity_1,6,2.63,0.4383,2,2,1,1,0,0,Exosome complex exonuclease RRP45,NONE,Q06265,NONE,NONE,"NONE
+"
+1u2c_A_cavity_1,6,2.621,0.4368,4,1,1,0,0,0,Dystroglycan,NONE,Q62165,NONE,NONE,"NONE
+"
+1x7z_B_cavity_1,6,2.62,0.4367,3,2,1,0,0,0,"2-oxoisovalerate dehydrogenase subunit alpha, mitochondrial",NONE,P12694,NONE,NONE,"NONE
+"
+2a98_A_cavity_2,8,3.464,0.433,4,0,2,2,0,0,Inositol-trisphosphate 3-kinase C,NONE,Q96DU7,NONE,NONE,"NONE
+"
+2owy_A_cavity_1,6,2.596,0.4327,3,1,1,1,0,0,Recombination-associated protein rdgC,NONE,Q9HYX7,NONE,NONE,"NONE
+"
+2z2n_A_cavity_2,7,3.028,0.4326,4,1,1,0,1,0,Virginiamycin B lyase,NONE,P17978,NONE,NONE,"NONE
+"
+1m6j_B_cavity_1,6,2.594,0.4323,2,1,1,1,1,0,Triosephosphate isomerase,NONE,O02611,NONE,NONE,"NONE
+"
+1eu1_A_cavity_7,9,3.857,0.4286,5,1,1,1,1,0,Dimethyl sulfoxide reductase,NONE,Q57366,Energy production and conversion,NONE,"NONE
+"
+1p16_B_cavity_4,7,2.998,0.4283,3,1,1,2,0,0,mRNA-capping enzyme subunit alpha,NONE,P78587,NONE,NONE,"NONE
+"
+2a9e_A_cavity_2,9,3.852,0.428,3,2,1,0,3,0,Catalase,NONE,P77872,Involved in catalase activity,NONE,"NONE
+"
+2ron_A_cavity_2,7,2.995,0.4279,4,1,1,0,1,0,Surfactin synthetase thioesterase subunit,NONE,Q08788,NONE,NONE,"NONE
+"
+1us1_B_cavity_5,7,2.994,0.4278,3,0,2,1,1,0,Membrane primary amine oxidase,OXIDASE,AOC3_HUMAN,Cell adhesion protein that participates in lymphocyte recirculation by mediating the binding of lymphocytes to peripheral lymph node vascular endothelial cells in an L-selectin- independent fashion. Has a monoamine oxidase activity.,NONE,"Cerebrovascular ischemia;Inflammation
+"
+1uvx_A_cavity_1,7,2.993,0.4275,5,1,0,0,1,0,Globin LI637,NONE,Q08753,Involved in oxygen binding,NONE,"NONE
+"
+1u63_C_cavity_2,7,2.992,0.4275,5,0,1,1,0,0,50S ribosomal protein L1P,NONE,P54050,"Translation, ribosomal structure and biogenesis",NONE,"NONE
+"
+1j9a_A_cavity_3,7,2.991,0.4273,5,1,1,0,0,0,Oligoribonuclease,NONE,P45340,NONE,NONE,"NONE
+"
+2h00_C_cavity_1,7,2.99,0.4271,5,1,1,0,0,0,Putative methyltransferase METT10D,NONE,Q86W50,NONE,NONE,"NONE
+"
+2pby_D_cavity_1,6,2.561,0.4269,4,1,1,0,0,0,Glutaminase,NONE,Q5KY26,NONE,NONE,"NONE
+"
+1ix1_B_cavity_1,7,2.984,0.4264,3,1,1,1,1,0,Peptide deformylase,NONE,Q9I7A8,"Translation, ribosomal structure and biogenesis",NONE,"NONE
+"
+1v5b_C_cavity_1,7,2.983,0.4262,4,1,1,0,1,0,3-isopropylmalate dehydrogenase,NONE,P12010,NONE,NONE,"NONE
+"
+1jcn_A_cavity_1,7,2.982,0.4259,4,1,1,1,0,0,Inosine-5-monophosphate dehydrogenase 1,OXIDOREDUCTASE,IMDH1_HUMAN,Rate limiting enzyme in the de novo synthesis of guanine nucleotides and therefore is involved in the regulation of cell growth. It may also have a role in the development of malignancy and the growth progression of some tumors.,"Defects in IMPDH1 are the cause of retinitis pigmentosa type 10 (RP10) [MIM:180105]. RP leads to degeneration of retinal photoreceptor cells. Patients typically have night vision blindness and loss of midperipheral visual field. As their condition progresses, they lose their far peripheral visual field and eventually central vision as well. RP10 inheritance is autosomal dominant.","NONE
+"
+2v4j_C_cavity_1,7,2.978,0.4254,5,2,0,0,0,0,"Sulfite reductase, dissimilatory-type subunit alpha",NONE,P45574,NONE,NONE,"NONE
+"
+2hzp_A_cavity_2,7,2.975,0.425,4,0,2,0,1,0,Kynureninase,NONE,Q16719,NONE,NONE,"NONE
+"
+1v8b_C_cavity_3,7,2.975,0.425,5,1,1,0,0,0,Adenosylhomocysteinase,NONE,P50250,Involved in adenosylhomocysteinase activity,NONE,"NONE
+"
+3bxj_A_cavity_2,7,2.975,0.425,4,2,0,1,0,0,Ras GTPase-activating protein SynGAP,NONE,Q9QUH6,NONE,NONE,"NONE
+"
+1aj8_A_cavity_2,7,2.973,0.4248,5,1,1,0,0,0,Citrate synthase,NONE,Q53554,"Involved in transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer",NONE,"NONE
+"
+1bq6_A_cavity_2,7,2.973,0.4247,4,1,1,0,1,0,Chalcone synthase 2,NONE,P30074,"Secondary metabolites biosynthesis, transport and catabolism",NONE,"NONE
+"
+3hbx_D_cavity_3,7,2.972,0.4246,5,1,1,0,0,0,Glutamate decarboxylase 1,NONE,Q42521,NONE,NONE,"NONE
+"
+1ofh_B_cavity_1,6,2.548,0.4246,2,1,1,1,1,0,ATP-dependent hsl protease ATP-binding subunit hslU,NONE,P43773,Involved in nucleotide binding,NONE,"NONE
+"
+1dos_A_cavity_1,6,2.547,0.4245,4,1,0,1,0,0,Fructose-bisphosphate aldolase class 2,NONE,P0AB71,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2enk_A_cavity_2,6,2.547,0.4245,3,2,1,0,0,0,Zinc transporter 9,NONE,Q6PML9,NONE,NONE,"NONE
+"
+1ega_B_cavity_1,7,2.971,0.4244,4,1,1,0,1,0,GTP-binding protein era,NONE,P06616,NONE,NONE,"NONE
+"
+1ntg_D_cavity_1,7,2.97,0.4243,4,0,2,1,0,0,"Tyrosyl-tRNA synthetase, cytoplasmic",NONE,P54577,"Translation, ribosomal structure and biogenesis",NONE,"Tyrosine is claimed to act as an effective antidepressant, however results are mixed. Tyrosine has also been claimed to reduce stress and combat narcolepsy and chronic fatigue, however these claims have been refuted by some studies.
+"
+1l7b_A_cavity_1,7,2.969,0.4242,5,0,1,1,0,0,DNA ligase,NONE,P26996,NONE,NONE,"NONE
+"
+1ud1_C_cavity_2,7,2.964,0.4235,6,1,0,0,0,0,Glycinin G1,NONE,P04776,NONE,NONE,"NONE
+"
+1uf2_E_cavity_2,7,2.961,0.4231,4,1,1,1,0,0,Major 114 kDa structural protein,NONE,P22472,NONE,NONE,"NONE
+"
+1mqv_B_cavity_1,7,2.961,0.4229,5,2,0,0,0,0,Cytochrome c,NONE,P00149,Involved in iron ion binding,NONE,"NONE
+"
+1j7x_A_cavity_3,7,2.955,0.4222,4,1,1,1,0,0,Retinol-binding protein 3,NONE,Q7SZI7,NONE,NONE,"NONE
+"
+1r19_A_cavity_1,7,2.953,0.4219,5,1,1,0,0,0,Serine-aspartate repeat-containing protein G,NONE,Q9KI13,NONE,NONE,"NONE
+"
+1fwk_A_cavity_2,7,2.953,0.4219,5,1,1,0,0,0,Homoserine kinase,NONE,Q58504,Amino acid transport and metabolism,NONE,"NONE
+"
+1nj8_D_cavity_2,7,2.953,0.4218,4,1,1,1,0,0,Prolyl-tRNA synthetase,NONE,Q58635,NONE,NONE,"NONE
+"
+1mj4_A_cavity_1,7,2.951,0.4216,6,1,0,0,0,0,"Sulfite oxidase, mitochondrial",NONE,P51687,NONE,NONE,"NONE
+"
+1vbg_A_cavity_8,7,2.95,0.4214,4,0,1,2,0,0,"Pyruvate, phosphate dikinase 1, chloroplastic",NONE,P11155,Carbohydrate transport and metabolism,NONE,"NONE
+"
+1zz3_A_cavity_2,7,2.948,0.4212,3,1,1,0,2,0,Histone deacetylase-like amidohydrolase,NONE,Q70I53,NONE,NONE,"NONE
+"
+2yqi_A_cavity_1,7,2.947,0.4211,5,1,1,0,0,0,High mobility group protein B3,TRANSCRIPTION,HMGB3_HUMAN,Binds preferentially single-stranded DNA and unwinds double stranded DNA (By similarity).,NONE,"NONE
+"
+1zde_A_cavity_1,7,2.947,0.421,5,1,1,0,0,0,DNA polymerase III subunit alpha,NONE,P74750,NONE,NONE,"NONE
+"
+2h5g_A_cavity_1,7,2.947,0.4209,5,1,1,0,0,0,Delta-1-pyrroline-5-carboxylate synthetase,NONE,P54886,NONE,NONE,"NONE
+"
+2dtg_C_cavity_1,7,2.946,0.4208,6,1,0,0,0,0,Insulin receptor,HORMONE RECEPTOR/IMMUNE SYSTEM,INSR_HUMAN,This receptor binds insulin and has a tyrosine-protein kinase activity. Isoform Short has a higher affinity for insulin. Mediates the metabolic functions of insulin. Binding to insulin stimulates association of the receptor with downstream mediators inclu,"Defects in INSR are the cause of insulin resistance (Ins resistance) [MIM:125853].;Defects in INSR are the cause of Rabson-Mendenhall syndrome [MIM:262190]; also known as Mendenhall syndrome. It is a severe insulin resistance syndrome characterized by insulin- resistant diabetes mellitus with pineal hyperplasia and somatic abnormalities. Typical features include coarse, senile-appearing facies, dental and skin abnormalities, abdominal distension, and phallic enlargement. Inheritance is autosomal recessive.;Defects in INSR are the cause of leprechaunism [MIM:246200]; also known as Donohue syndrome. Leprechaunism represents the most severe form of insulin resistance syndrome, characterized by intrauterine and postnatal growth retardation and death in early infancy. Inheritance is autosomal recessive.;Defects in INSR may be associated with noninsulin- dependent diabetes mellitus (NIDDM) [MIM:125853]; also known as diabetes mellitus type 2.;Defects in INSR are the cause of familial hyperinsulinemic hypoglycemia 5 (HHF5) [MIM:609968]. Familial hyperinsulinemic hypoglycemia [MIM:256450], also referred to as congenital hyperinsulinism, nesidioblastosis, or persistent hyperinsulinemic hypoglycemia of infancy (PPHI), is the most common cause of persistent hypoglycemia in infancy and is due to defective negative feedback regulation of insulin secretion by low glucose levels.;Defects in INSR are the cause of insulin-resistant diabetes mellitus with acanthosis nigricans type A (IRAN type A) [MIM:610549]. This syndrome is characterized by the association of severe insulin resistance (manifested by marked hyperinsulinemia and a failure to respond to exogenous insulin) with the skin lesion acanthosis nigricans and ovarian hyperandrogenism in adolescent female subjects. Women frequently present with hirsutism, acne, amenorrhea or oligomenorrhea, and virilization. This syndrome is different from the type B that has been demonstrated to be secondary to the presence of circulating autoantibodies against the insulin receptor.","Insulin dependent diabetes;Cancer;Non-insulin dependent diabetes;Infection;Parkinsons disease;Hypertension;Diabetes mellitus;Hyperinsulinemia
+"
+1qsa_A_cavity_2,7,2.945,0.4207,4,1,1,1,0,0,Soluble lytic murein transglycosylase precursor,NONE,P0AGC3,Cell wall/membrane/envelope biogenesis,NONE,"NONE
+"
+1or7_C_cavity_1,7,2.945,0.4207,5,1,0,1,0,0,RNA polymerase sigma-E factor,NONE,P0AGB6,NONE,NONE,"NONE
+"
+2w48_B_cavity_2,7,2.944,0.4206,5,2,0,0,0,0,Sorbitol operon regulator,NONE,P37078,NONE,NONE,"NONE
+"
+2rf4_A_cavity_1,7,2.943,0.4204,5,1,1,0,0,0,DNA-directed RNA polymerase I subunit RPA43,NONE,P46669,NONE,NONE,"NONE
+"
+2daf_A_cavity_2,7,2.942,0.4203,5,1,0,0,1,0,IQ and ubiquitin-like domain-containing protein,NONE,Q8NA54,NONE,NONE,"NONE
+"
+2ve7_C_cavity_1,7,2.941,0.4201,5,1,1,0,0,0,Kinetochore protein NDC80 homolog,NONE,O14777,NONE,NONE,"NONE
+"
+1wjp_A_cavity_1,7,2.94,0.42,4,1,1,0,1,0,Zinc finger protein 295,NONE,Q9ULJ3,NONE,NONE,"NONE
+"
+1i11_A_cavity_1,7,2.94,0.42,5,1,1,0,0,0,Transcription factor SOX-5,NONE,P35710,NONE,NONE,"NONE
+"
+1wi3_A_cavity_2,7,2.939,0.4198,4,1,1,0,1,0,DNA-binding protein SATB2,DNA BINDING PROTEIN,SATB2_HUMAN,May play an important role in palate formation.,"Chromosomal aberrations involving SATB2 are found in isolated cleft palate. Translocation t(2;7); translocation t(2;11).;Defects in SATB2 are the cause of isolated cleft palate with mental retardation [MIM:119540]. Patients manifest cleft palate, craniofacial dysmorphism and profound mental retardation.","NONE
+"
+2nzt_B_cavity_6,7,2.939,0.4198,5,2,0,0,0,0,Hexokinase-2,TRANSFERASE,HXK2_HUMAN,NONE,NONE,"NONE
+"
+1uwa_E_cavity_4,7,2.937,0.4196,1,2,1,0,3,0,Ribulose bisphosphate carboxylase large chain,NONE,P00877,NONE,NONE,"NONE
+"
+1nsl_B_cavity_1,7,2.937,0.4196,5,1,1,0,0,0,Putative ribosomal N-acetyltransferase ydaF,NONE,P96579,NONE,NONE,"NONE
+"
+2c7y_B_cavity_1,7,2.937,0.4195,5,1,1,0,0,0,"3-ketoacyl-CoA thiolase 2, peroxisomal",NONE,Q56WD9,NONE,NONE,"NONE
+"
+2csj_A_cavity_1,7,2.935,0.4192,4,1,1,1,0,0,Tight junction protein ZO-2,NONE,Q9Z0U1,NONE,NONE,"NONE
+"
+2vas_A_cavity_5,7,2.934,0.4192,4,1,1,0,1,0,Myosin-VI,NONE,Q29122,NONE,NONE,"NONE
+"
+2hh8_A_cavity_1,7,2.928,0.4183,3,1,1,1,1,0,Uncharacterized protein ydfO,NONE,P76156,NONE,NONE,"NONE
+"
+2bjh_B_cavity_2,7,2.926,0.418,3,1,1,0,2,0,Feruloyl esterase A,NONE,O42807,NONE,NONE,"NONE
+"
+1yqt_A_cavity_6,7,2.926,0.418,3,2,1,1,0,0,RNase l inhibitor,NONE,Q8U306,Involved in electron carrier activity,NONE,"NONE
+"
+1n60_B_cavity_2,7,2.925,0.4178,5,2,0,0,0,0,Carbon monoxide dehydrogenase small chain,NONE,P19921,NONE,NONE,"NONE
+"
+2ee4_A_cavity_1,8,3.341,0.4176,5,2,0,0,1,0,Rho GTPase-activating protein 5,NONE,Q13017,NONE,NONE,"NONE
+"
+2qvv_A_cavity_1,7,2.923,0.4176,4,1,1,0,1,0,"Fructose-1,6-bisphosphatase 1",NONE,P00636,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2do1_A_cavity_1,7,2.923,0.4176,5,1,1,0,0,0,SAP domain-containing ribonucleoprotein,NONE,P82979,NONE,NONE,"NONE
+"
+1kar_A_cavity_1,7,2.919,0.417,5,1,1,0,0,0,Histidinol dehydrogenase,NONE,P06988,Amino acid transport and metabolism,NONE,"NONE
+"
+2vxq_H_cavity_2,7,2.919,0.417,4,1,1,1,0,0,Pollen allergen Phl p 2,NONE,P43214,NONE,NONE,"NONE
+"
+2vwe_L_cavity_2,7,2.918,0.4169,3,0,2,2,0,0,Vascular endothelial growth factor B,NONE,P49765,NONE,NONE,"NONE
+"
+1hbp_A_cavity_1,6,2.499,0.4164,5,1,0,0,0,0,Retinol-binding protein 4,NONE,P18902,Involved in retinoid binding,NONE,"NONE
+"
+2faf_B_cavity_1,7,2.912,0.416,2,2,1,0,2,0,"Phosphoenolpyruvate carboxykinase [GTP], mitochondrial",NONE,P21642,NONE,NONE,"NONE
+"
+3prc_M_cavity_6,7,2.911,0.4159,5,2,0,0,0,0,Photosynthetic reaction center cytochrome c subunit,NONE,P07173,NONE,NONE,"NONE
+"
+1ugr_B_cavity_2,7,2.911,0.4158,5,1,1,0,0,0,Cobalt-containing nitrile hydratase subunit alpha,NONE,Q7SID2,NONE,NONE,"NONE
+"
+1vmi_A_cavity_2,7,2.91,0.4157,4,1,1,0,1,0,Ethanolamine utilization protein eutD,NONE,P77218,NONE,NONE,"NONE
+"
+2bj3_A_cavity_1,6,2.491,0.4152,6,0,0,0,0,0,Putative nickel-responsive regulator,NONE,O58316,Involved in DNA binding,NONE,"NONE
+"
+2ara_A_cavity_1,6,2.491,0.4151,3,1,1,0,1,0,Arabinose operon regulatory protein,NONE,P0A9E0,NONE,NONE,"NONE
+"
+1m5y_D_cavity_2,7,2.902,0.4146,2,1,0,0,4,0,Chaperone surA,NONE,P0ABZ6,NONE,NONE,"NONE
+"
+1to6_A_cavity_3,6,2.488,0.4146,6,0,0,0,0,0,Glycerate kinase,NONE,P57098,NONE,NONE,"NONE
+"
+2jbp_H_cavity_2,8,3.316,0.4145,4,1,1,2,0,0,MAP kinase-activated protein kinase 2,NONE,P49137,Involved in protein kinase activity,NONE,"NONE
+"
+2rfa_A_cavity_1,6,2.487,0.4145,5,1,0,0,0,0,Transient receptor potential cation channel subfamily V member 6,NONE,Q91WD2,NONE,NONE,"NONE
+"
+2cxq_A_cavity_2,7,2.896,0.4138,4,1,1,1,0,0,Glucose-6-phosphate isomerase,NONE,P06745,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2j6y_D_cavity_1,6,2.483,0.4138,5,0,1,0,0,0,Phosphoserine phosphatase rsbU,NONE,P40399,NONE,NONE,"NONE
+"
+2cy3_A_cavity_1,6,2.482,0.4137,4,0,1,1,0,0,"Cytochrome c3, 13 kDa",NONE,P00136,Involved in iron ion binding,NONE,"NONE
+"
+2pph_A_cavity_1,9,3.722,0.4135,3,2,1,1,2,0,Mitogen-activated protein kinase kinase kinase 3,TRANSFERASE,M3K3_HUMAN,"Component of a protein kinase signal transduction cascade. Mediates activation of the NF-kappa-B, AP1 and DDIT3 transcriptional regulators.",NONE,"NONE
+"
+1twu_A_cavity_1,6,2.48,0.4133,5,1,0,0,0,0,Uncharacterized protein yycE,NONE,P37479,NONE,NONE,"NONE
+"
+1wz8_D_cavity_3,7,2.892,0.4132,5,1,1,0,0,0,Enoyl-CoA hydratase,NONE,Q5SLS5,Involved in catalytic activity,NONE,"NONE
+"
+1ycd_A_cavity_2,7,2.891,0.413,4,0,2,1,0,0,Family of serine hydrolases 1,NONE,P38777,NONE,NONE,"NONE
+"
+2nqb_G_cavity_1,6,2.477,0.4128,6,0,0,0,0,0,Histone H3,NONE,P02299,NONE,NONE,"NONE
+"
+1kgl_A_cavity_1,8,3.298,0.4123,6,1,1,0,0,0,Retinol-binding protein 1,NONE,P02696,NONE,NONE,"NONE
+"
+1wjt_A_cavity_1,6,2.471,0.4118,6,0,0,0,0,0,Transcription elongation factor A protein 3,NONE,P23881,NONE,NONE,"NONE
+"
+1icx_A_cavity_1,7,2.882,0.4117,5,1,1,0,0,0,Protein LlR18A,NONE,P52778,NONE,NONE,"NONE
+"
+3b68_A_cavity_1,7,2.881,0.4116,5,0,1,0,1,0,Androgen receptor,TRANSCRIPTION,ANDR_HUMAN,Steroid hormone receptors are ligand-activated transcription factors that regulate eukaryotic gene expression and affect cellular proliferation and differentiation in target tissues. Transcription factor activity is modulated by bound coactivator and core,"Genetic variation in AR can be responsible of androgenetic alopecia (AGA) [MIM:109200].;Defects in AR are the cause of androgen insensibility syndrome (AIS) [MIM:300068]; previously known as testicular feminization syndrome (TFM). It can be complete (CAIS) when external genitalia are phenotypically female; or partial (PAIS) when external genitalia are substantively ambiguous or mild (MAIS) when external genitalia are normal male or nearly so.;Defects in AR are the cause of X-linked spinal and bulbar muscular atrophy (SBMA) [MIM:313200]; also known as Kennedy disease. In SBMA patients the number of Gln ranges from 40 to 52. Longer expansions result in earlier onset and more severe clinical manifestations of the disease.;Defects in AR may play a role in metastatic prostate cancer. The mutated receptor stimulates prostate growth and metastases development despite of androgen ablation. This treatment can reduce primary and metastatic lesions probably by inducing apoptosis of tumor cells when they express the wild-type receptor.;Defects in AR may be the cause of infertility male syndrome [MIM:308370]; also called androgen insensitivity. It is characterized by azoospermia, elevated testosterone and luteinizing hormone plasma levels and an abnormal androgen receptor.;Defects in AR are the cause of Reifenstein syndrome [MIM:312300]; also known as partial androgen insensitivity. The features of this form of male pseudohermaphroditism are hypospadias, hypogonadism, gynecomastia, normal XY karyotype, and a pedigree pattern consistent with X-linked recessive inheritance.","Hypoactive sexual desire disorder;Hepatitis B virus infection;Cardiac failure;Andrology;Hirsutism;Female sexual dysfunction;Psoriasis;Reperfusion injury;Plasmodium infection;Atherosclerosis;Prostate hyperplasia;Fatigue;Male sexual dysfunction;Autoimmune disease;Testosterone deficiency;Uterine fibroids;Metabolic disorder;Myalgia;Obesity;Gynecological disorder;Contraception;Cancer;Hypercholesterolemia;Skin burns;Seborrhea;Growth disorder;Bone tumor;Muscular dystrophy;Erectile dysfunction;Systemic lupus erythematosus;Asthma;Wound healing;Cerebrovascular ischemia;Acne;Hypogonadism;HIV infection;Neoplasm;Dermatological disease;Prostate disease;Multiple sclerosis;Lacrimal gland disease;Alopecia;Mycobacterium tuberculosis infection;Ovary cyst;Carcinoma;Cardiovascular disease;Cachexia;Muscle wasting disease;Cervical dystonia;Anemia;Endocrine disease;Non-insulin dependent diabetes;Breast tumor;Female contraception;Fungal infection;Cystic fibrosis;Prostate tumor;Estrogen deficiency;Endometriosis;Hormone deficiency;Turners syndrome;Keratosis;Premenstrual syndrome;Hepatitis C virus infection;Benign tumor;Osteoporosis;Male contraception
+"
+1lmz_A_cavity_1,7,2.881,0.4116,5,1,1,0,0,0,DNA-3-methyladenine glycosylase 1,NONE,P05100,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2jwy_A_cavity_3,7,2.878,0.4111,2,3,1,1,0,0,Uncharacterized lipoprotein yajI,NONE,P46122,NONE,NONE,"NONE
+"
+2f66_E_cavity_1,6,2.467,0.4111,6,0,0,0,0,0,Suppressor protein STP22 of temperature-sensitive alpha-factor receptor and arginine permease,NONE,P25604,NONE,NONE,"NONE
+"
+2r55_A_cavity_1,7,2.877,0.411,4,1,1,1,0,0,StAR-related lipid transfer protein 5,NONE,Q9NSY2,NONE,NONE,"NONE
+"
+1yhn_B_cavity_1,6,2.466,0.411,6,0,0,0,0,0,Ras-related protein Rab-7a,NONE,P51149,NONE,NONE,"NONE
+"
+3bkb_A_cavity_3,6,2.466,0.411,3,2,0,0,1,0,Proto-oncogene tyrosine-protein kinase Fes/Fps,TRANSFERASE,FES_HUMAN,NONE,NONE,"NONE
+"
+2qnc_B_cavity_2,6,2.466,0.411,6,0,0,0,0,0,Recombination endonuclease VII,NONE,P13340,NONE,NONE,"NONE
+"
+2aao_A_cavity_1,6,2.466,0.411,6,0,0,0,0,0,Calcium-dependent protein kinase 1,NONE,Q06850,NONE,NONE,"NONE
+"
+1yvw_A_cavity_1,6,2.463,0.4106,6,0,0,0,0,0,Phosphoribosyl-ATP pyrophosphatase,NONE,Q81G00,NONE,NONE,"NONE
+"
+1hty_A_cavity_8,6,2.463,0.4104,4,0,1,1,0,0,Alpha-mannosidase 2,NONE,Q24451,Carbohydrate transport and metabolism,NONE,"NONE
+"
+2a7s_A_cavity_3,6,2.463,0.4104,6,0,0,0,0,0,Probable propionyl-CoA carboxylase beta chain 5,NONE,P96885,NONE,NONE,"NONE
+"
+1s9c_F_cavity_3,6,2.46,0.4101,5,0,0,1,0,0,Peroxisomal multifunctional enzyme type 2,NONE,P51659,Lipid transport and metabolism,NONE,"Some evidence suggests that NADH might be useful in treating Parkinsons disease, chronic fatigue syndrome, Alzheimers disease and cardiovascular disease.
+"
+1gk9_B_cavity_7,7,2.87,0.41,4,1,1,0,1,0,Penicillin G acylase,NONE,P06875,NONE,NONE,"NONE
+"
+1ml8_A_cavity_1,6,2.459,0.4098,6,0,0,0,0,0,Protein yhfA,NONE,P0ADX3,NONE,NONE,"NONE
+"
+2qbv_A_cavity_1,6,2.454,0.4089,5,0,1,0,0,0,Uncharacterized protein Rv0948c/MT0975,NONE,P64767,NONE,NONE,"NONE
+"
+3e1k_I_cavity_3,7,2.862,0.4088,4,1,1,1,0,0,Galactose/lactose metabolism regulatory protein GAL80,NONE,Q06433,NONE,NONE,"NONE
+"
