@@ -1,0 +1,15 @@
+,Search,Target,Organism,EC Number,Biological Process,Uniprot ID,TriTrypDB ID
+0,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Leishmania mexicana,1.1.1.8,[],P90551,['TriTrypDB:LmxM.10.0510']
+1,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Trypanosoma brucei rhodesiense,1.1.1.8,[],Q26756,[]
+2,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Trypanosoma brucei brucei,1.1.1.8,[],P90593,[]
+3,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Leishmania major,1.1.1.8,[],Q4QHG4,"['TriTrypDB:LmjF.10.0510', 'TriTrypDB:LMJFC_100012500', 'TriTrypDB:LMJLV39_100011000', 'TriTrypDB:LMJSD75_100011100']"
+4,D-tyrosyl-tRNA Tyr  deacylase,Putative D-tyrosyl-tRNA(Tyr) deacylase 2,Leishmania major,3.1.-.-,[],P84066,"['TriTrypDB:LmjF.34.3360', 'TriTrypDB:LMJFC_340043900', 'TriTrypDB:LMJLV39_340039400', 'TriTrypDB:LMJSD75_340039700']"
+5,Acetylglutamate kinase,Glutamate 5-kinase,Leishmania donovani,2.7.2.11,"['Amino-acid biosynthesis', 'Proline biosynthesis']",A0A0R6Y3I5,"['TriTrypDB:LdBPK_262740.1', 'TriTrypDB:LdCL_260033500', 'TriTrypDB:LDHU3_26.3600']"
+6,Trypanothione reductase,Trypanothione reductase,Trypanosoma cruzi,1.8.1.12,[],P28593,"['TriTrypDB:BCY84_10688', 'TriTrypDB:C3747_19g298', 'TriTrypDB:C4B63_14g241', 'TriTrypDB:ECC02_012776', 'TriTrypDB:Tc_MARK_3549', 'TriTrypDB:TcBrA4_0014700', 'TriTrypDB:TcCL_ESM09797', 'TriTrypDB:TcCLB.503555.30', 'TriTrypDB:TcCLB.504507.5', 'TriTrypDB:TCDM_11669', 'TriTrypDB:TcG_08092', 'TriTrypDB:TCSYLVIO_004807', 'TriTrypDB:TcYC6_0175630']"
+7,Trypanothione reductase,Trypanothione reductase,Crithidia fasciculata,1.8.1.12,[],P39040,['TriTrypDB:CFAC1_020010000']
+8,Trypanothione reductase,Trypanothione reductase,Trypanosoma congolense,1.8.1.12,[],P13110,"['TriTrypDB:TcIL3000.A.H_000810800', 'TriTrypDB:TcIL3000_10_8870']"
+9,Trypanothione reductase,Trypanothione reductase,Leishmania donovani,1.8.1.12,[],P39050,"['TriTrypDB:LdBPK_050350.1', 'TriTrypDB:LdCL_050008500', 'TriTrypDB:LDHU3_05.0400']"
+10,Trypanothione reductase,Trypanothione reductase,Trypanosoma brucei brucei,1.8.1.12,[],P39051,[]
+11,Trypanothione reductase,Tryparedoxin,Trypanosoma brucei brucei, - ,"['Electron transport', 'Transport']",O77404,[]
+12,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Leishmania major,3.2.2.2,['Nucleotide metabolism'],P83851,"['TriTrypDB:LmjF.18.1580', 'TriTrypDB:LMJFC_180024600', 'TriTrypDB:LMJLV39_180021500', 'TriTrypDB:LMJSD75_180021700']"
+13,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Crithidia fasciculata,3.2.2.2,['Nucleotide metabolism'],Q27546,['TriTrypDB:CFAC1_140027700']
