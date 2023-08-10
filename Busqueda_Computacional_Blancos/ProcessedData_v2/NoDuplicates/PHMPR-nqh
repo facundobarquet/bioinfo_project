@@ -1,0 +1,27 @@
+,Search,Target,Organism,EC Number,Biological Process,Uniprot ID,TriTrypDB ID
+0,S-adenosylmethionine decarboxylase proenzyme,S-adenosylmethionine decarboxylase proenzyme,Trypanosoma brucei brucei,4.1.1.50,"['Polyamine biosynthesis', 'Spermidine biosynthesis']",P50244,[]
+1,S-adenosylmethionine decarboxylase proenzyme,S-adenosylmethionine decarboxylase proenzyme,Trypanosoma cruzi,4.1.1.50,"['Polyamine biosynthesis', 'Spermidine biosynthesis']",O76240,"['TriTrypDB:BCY84_01143', 'TriTrypDB:C3747_28g21', 'TriTrypDB:C4B63_18g214', 'TriTrypDB:ECC02_000011', 'TriTrypDB:Tc_MARK_2060', 'TriTrypDB:TcBrA4_0027780', 'TriTrypDB:TcCL_NonESM02979', 'TriTrypDB:TcCLB.504257.30', 'TriTrypDB:TcCLB.509167.120', 'TriTrypDB:TCDM_02116', 'TriTrypDB:TcG_00999', 'TriTrypDB:TCSYLVIO_003342', 'TriTrypDB:TcYC6_0098450']"
+2,S-adenosylmethionine decarboxylase proenzyme,Inactive S-adenosylmethionine decarboxylase prozyme,Trypanosoma brucei brucei, - ,"['Polyamine biosynthesis', 'Spermidine biosynthesis']",A5HNV6,[]
+3,Major envelope glycoprotein,Leishmanolysin,Leishmania major,3.4.24.36,['Cell adhesion'],P08148,"['TriTrypDB:LmjF.10.0480', 'TriTrypDB:LMJFC_100011800', 'TriTrypDB:LMJLV39_100010200', 'TriTrypDB:LMJSD75_100010300']"
+4,RNA ligase 2,"RNA-editing ligase 1, mitochondrial",Trypanosoma brucei brucei,6.5.1.3,['mRNA processing'],P86926,[]
+5,RNA ligase 2,"RNA-editing ligase 1, mitochondrial",Trypanosoma brucei brucei (strain 927/4 GUTat10.1),6.5.1.3,['mRNA processing'],P86927,['TriTrypDB:Tb927.9.4360']
+6,RNA ligase 2,"RNA-editing ligase 2, mitochondrial",Trypanosoma brucei brucei,6.5.1.3,[],P86924,[]
+7,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Leishmania mexicana,1.1.1.8,[],P90551,['TriTrypDB:LmxM.10.0510']
+8,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Trypanosoma brucei rhodesiense,1.1.1.8,[],Q26756,[]
+9,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Trypanosoma brucei brucei,1.1.1.8,[],P90593,[]
+10,Glycerol-3-phosphate dehydrogenase  NAD+   glycosomal,"Glycerol-3-phosphate dehydrogenase [NAD(+)], glycosomal",Leishmania major,1.1.1.8,[],Q4QHG4,"['TriTrypDB:LmjF.10.0510', 'TriTrypDB:LMJFC_100012500', 'TriTrypDB:LMJLV39_100011000', 'TriTrypDB:LMJSD75_100011100']"
+11,Acetylglutamate kinase,Glutamate 5-kinase,Leishmania donovani,2.7.2.11,"['Amino-acid biosynthesis', 'Proline biosynthesis']",A0A0R6Y3I5,"['TriTrypDB:LdBPK_262740.1', 'TriTrypDB:LdCL_260033500', 'TriTrypDB:LDHU3_26.3600']"
+12,Phosphoglycerate mutase 1,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Trypanosoma brucei brucei (strain 927/4 GUTat10.1),5.4.2.12,['Glycolysis'],Q38AH1,['TriTrypDB:Tb927.10.7930']
+13,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Leishmania major,3.2.2.2,['Nucleotide metabolism'],P83851,"['TriTrypDB:LmjF.18.1580', 'TriTrypDB:LMJFC_180024600', 'TriTrypDB:LMJLV39_180021500', 'TriTrypDB:LMJSD75_180021700']"
+14,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Crithidia fasciculata,3.2.2.2,['Nucleotide metabolism'],Q27546,['TriTrypDB:CFAC1_140027700']
+15,Trypanothione reductase,Trypanothione reductase,Trypanosoma cruzi,1.8.1.12,[],P28593,"['TriTrypDB:BCY84_10688', 'TriTrypDB:C3747_19g298', 'TriTrypDB:C4B63_14g241', 'TriTrypDB:ECC02_012776', 'TriTrypDB:Tc_MARK_3549', 'TriTrypDB:TcBrA4_0014700', 'TriTrypDB:TcCL_ESM09797', 'TriTrypDB:TcCLB.503555.30', 'TriTrypDB:TcCLB.504507.5', 'TriTrypDB:TCDM_11669', 'TriTrypDB:TcG_08092', 'TriTrypDB:TCSYLVIO_004807', 'TriTrypDB:TcYC6_0175630']"
+16,Trypanothione reductase,Trypanothione reductase,Crithidia fasciculata,1.8.1.12,[],P39040,['TriTrypDB:CFAC1_020010000']
+17,Trypanothione reductase,Trypanothione reductase,Trypanosoma congolense,1.8.1.12,[],P13110,"['TriTrypDB:TcIL3000.A.H_000810800', 'TriTrypDB:TcIL3000_10_8870']"
+18,Trypanothione reductase,Trypanothione reductase,Leishmania donovani,1.8.1.12,[],P39050,"['TriTrypDB:LdBPK_050350.1', 'TriTrypDB:LdCL_050008500', 'TriTrypDB:LDHU3_05.0400']"
+19,Trypanothione reductase,Trypanothione reductase,Trypanosoma brucei brucei,1.8.1.12,[],P39051,[]
+20,Trypanothione reductase,Tryparedoxin,Trypanosoma brucei brucei, - ,"['Electron transport', 'Transport']",O77404,[]
+21,Inosine-5-monophosphate dehydrogenase,Inosine-5'-monophosphate dehydrogenase,Leishmania donovani,1.1.1.205,"['GMP biosynthesis', 'Purine biosynthesis']",P21620,"['TriTrypDB:LdBPK_191590.1', 'TriTrypDB:LdCL_190021700', 'TriTrypDB:LDHU3_19.1930']"
+22,Ribonucleoside-diphosphate reductase small chain 1,Ribonucleoside-diphosphate reductase large subunit,Trypanosoma brucei brucei,1.17.4.1,['Deoxyribonucleotide synthesis'],O15909,[]
+23,Ribonucleoside-diphosphate reductase small chain 1,Ribonucleoside-diphosphate reductase small chain,Trypanosoma brucei brucei,1.17.4.1,['Deoxyribonucleotide synthesis'],O15910,[]
+24,Ornithine decarboxylase antizyme,Ornithine decarboxylase,Trypanosoma brucei brucei,4.1.1.17,['Polyamine biosynthesis'],P07805,[]
+25,Ornithine decarboxylase antizyme,Ornithine decarboxylase,Leishmania donovani,4.1.1.17,['Polyamine biosynthesis'],P27116,"['TriTrypDB:LdBPK_120105.1', 'TriTrypDB:LdCL_120007900', 'TriTrypDB:LDHU3_12.0390']"

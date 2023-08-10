@@ -1,0 +1,19 @@
+,Search,Target,Organism,EC Number,Biological Process,Uniprot ID,TriTrypDB ID
+0,Ribokinase,Ribokinase,Leishmania major,2.7.1.15,['Carbohydrate metabolism'],E9AD19,"['TriTrypDB:LmjF.27.0420', 'TriTrypDB:LMJFC_270009600', 'TriTrypDB:LMJLV39_270009200', 'TriTrypDB:LMJSD75_270009200']"
+1,Major DNA-binding protein,Leishmanolysin,Leishmania major,3.4.24.36,['Cell adhesion'],P08148,"['TriTrypDB:LmjF.10.0480', 'TriTrypDB:LMJFC_100011800', 'TriTrypDB:LMJLV39_100010200', 'TriTrypDB:LMJSD75_100010300']"
+2,Adenosylhomocysteinase,Adenosylhomocysteinase,Leishmania donovani,3.13.2.1,['One-carbon metabolism'],P36889,"['TriTrypDB:LdBPK_364100.1', 'TriTrypDB:LdCL_360048000', 'TriTrypDB:LDHU3_36.5490']"
+3,Inosine-5-monophosphate dehydrogenase,Inosine-5'-monophosphate dehydrogenase,Leishmania donovani,1.1.1.205,"['GMP biosynthesis', 'Purine biosynthesis']",P21620,"['TriTrypDB:LdBPK_191590.1', 'TriTrypDB:LdCL_190021700', 'TriTrypDB:LDHU3_19.1930']"
+4,2 3-bisphosphoglycerate-independent phosphoglycerate mutase,"2,3-bisphosphoglycerate-independent phosphoglycerate mutase",Trypanosoma brucei brucei (strain 927/4 GUTat10.1),5.4.2.12,['Glycolysis'],Q38AH1,['TriTrypDB:Tb927.10.7930']
+5,Acetylglutamate kinase,Glutamate 5-kinase,Leishmania donovani,2.7.2.11,"['Amino-acid biosynthesis', 'Proline biosynthesis']",A0A0R6Y3I5,"['TriTrypDB:LdBPK_262740.1', 'TriTrypDB:LdCL_260033500', 'TriTrypDB:LDHU3_26.3600']"
+6,Glycerol kinase,"Glycerol kinase, glycosomal",Trypanosoma brucei brucei,2.7.1.30,"['Glycerol metabolism', 'Glycolysis']",Q9NJP9,[]
+7,Thymidylate synthase,Bifunctional dihydrofolate reductase-thymidylate synthase,Trypanosoma cruzi, - ,"['Nucleotide biosynthesis', 'One-carbon metabolism']",Q27793,"['TriTrypDB:BCY84_16439', 'TriTrypDB:C3747_84g65', 'TriTrypDB:C4B63_30g231', 'TriTrypDB:ECC02_006008', 'TriTrypDB:Tc_MARK_668', 'TriTrypDB:TcBrA4_0087940', 'TriTrypDB:TcCL_ESM02245', 'TriTrypDB:TcCLB.420533.9', 'TriTrypDB:TcCLB.509153.90', 'TriTrypDB:TcCLB.510303.320', 'TriTrypDB:TCDM_01885', 'TriTrypDB:TcG_01595', 'TriTrypDB:TCSYLVIO_001858', 'TriTrypDB:TcYC6_0045790']"
+8,Thymidylate synthase,Bifunctional dihydrofolate reductase-thymidylate synthase,Trypanosoma brucei brucei, - ,"['Nucleotide biosynthesis', 'One-carbon metabolism']",Q27783,[]
+9,Diaminopimelate decarboxylase,Ornithine decarboxylase,Trypanosoma brucei brucei,4.1.1.17,['Polyamine biosynthesis'],P07805,[]
+10,Vacuolar transporter chaperone 4,Vacuolar transporter chaperone complex subunit 4,Trypanosoma brucei brucei (strain 927/4 GUTat10.1), - ,[],Q382V9,['TriTrypDB:Tb927.11.12220']
+11,Vacuolar transporter chaperone 4,Vacuolar transporter chaperone complex subunit 4,Trypanosoma cruzi (strain CL Brener), - ,[],Q4E409,[]
+12,Vacuolar transporter chaperone 4,Vacuolar transporter chaperone complex subunit 1,Trypanosoma brucei brucei (strain 927/4 GUTat10.1), - ,[],Q57UM0,['TriTrypDB:Tb927.7.3900']
+13,Vanillyl-alcohol oxidase,Alkyldihydroxyacetonephosphate synthase,Trypanosoma brucei brucei,2.5.1.26,"['Lipid biosynthesis', 'Lipid metabolism']",O97157,[]
+14,Mitogen-activated protein kinase 6,Mitogen-activated protein kinase 4,Leishmania mexicana,2.7.11.24,[],Q9GRU1,['TriTrypDB:LmxM.19.1440']
+15,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Leishmania major,3.2.2.2,['Nucleotide metabolism'],P83851,"['TriTrypDB:LmjF.18.1580', 'TriTrypDB:LMJFC_180024600', 'TriTrypDB:LMJLV39_180021500', 'TriTrypDB:LMJSD75_180021700']"
+16,Inosine-uridine preferring nucleoside hydrolase,Inosine-uridine preferring nucleoside hydrolase,Crithidia fasciculata,3.2.2.2,['Nucleotide metabolism'],Q27546,['TriTrypDB:CFAC1_140027700']
+17,6-phosphogluconate dehydrogenase  decarboxylating,"6-phosphogluconate dehydrogenase, decarboxylating",Trypanosoma brucei brucei,1.1.1.44,"['Gluconate utilization', 'Pentose shunt']",P31072,[]
