@@ -7,6 +7,15 @@ F9, 300 Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wg
 F9, 300 Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
 
 
+F6, NO Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+
+[T8 (antes T11) no esta anotado]
+
+
+T11, NO Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
+
+
 NQH, NO Conformers, Druggable Pharmacophore Models, 300 Results, [wght_HP:1.5,wght_HBA:1.5,wght_HBD:1.5,wght_AR:1.5]
 
 NQH, NO Conformers, Druggable Pharmacophore Models, 500 Results, [wght_HP:1,wght_HBA:1,wght_HBD:1,wght_AR:1]
